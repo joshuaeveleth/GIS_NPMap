@@ -1,0 +1,413 @@
+Object,Plot_Name,Unit_Code,Lat,Lng,PC1,PC2,PC3,PC4,PC5
+1,ANTI-0025,ANTI,39.48761665,-77.74998138,Field Sparrow,Cedar Waxwing,American Goldfinch,Brown-headed Cowbird,Northern Cardinal
+2,ANTI-0036,ANTI,39.4855039,-77.74408523,Rock Pigeon,Indigo Bunting,Northern Cardinal,Field Sparrow,Mourning Dove
+3,ANTI-0052,ANTI,39.48079775,-77.75261887,Northern Cardinal,American Crow,Eastern Wood-Pewee,Indigo Bunting,Eastern Towhee
+4,ANTI-0072,ANTI,39.47636639,-77.74953802,American Crow,Northern Cardinal,Indigo Bunting,American Goldfinch,Eastern Towhee
+5,ANTI-0078,ANTI,39.47677729,-77.73211775,Indigo Bunting,Northern Cardinal,Eastern Towhee,Field Sparrow,Mourning Dove
+6,ANTI-0082,ANTI,39.47718558,-77.71469713,Northern Cardinal,Indigo Bunting,Baltimore Oriole,Cedar Waxwing,American Crow
+7,ANTI-0092,ANTI,39.47466358,-77.72622302,Eastern Wood-Pewee,Northern Cardinal,Red-bellied Woodpecker,Wood Thrush,American Crow
+8,ANTI-0185,ANTI,39.44977616,-77.73106142,Indigo Bunting,Northern Cardinal,Eastern Wood-Pewee,Blue-gray Gnatcatcher,Carolina Wren
+9,ANTI-0190,ANTI,39.44732114,-77.73967999,Field Sparrow,Indigo Bunting,Northern Cardinal,American Crow,Eastern Tufted Titmouse
+10,ANTI-0194,ANTI,39.44759422,-77.72807125,Northern Cardinal,Red-eyed Vireo,Wood Thrush,Acadian Flycatcher,Blue-gray Gnatcatcher
+11,ANTI-0200,ANTI,39.44520773,-77.7337876,Northern Cardinal,American Crow,American Goldfinch,Eastern Tufted Titmouse,Red-eyed Vireo
+12,ANTI-0201,ANTI,39.44527595,-77.7308855,Eastern Tufted Titmouse,Red-eyed Vireo,American Crow,Blue-gray Gnatcatcher,Northern Cardinal
+13,ANTI-0206,ANTI,39.44295763,-77.73369956,Blue-gray Gnatcatcher,Northern Cardinal,Red-bellied Woodpecker,Acadian Flycatcher,American Goldfinch
+14,ANTI-0207,ANTI,39.44302585,-77.73079755,Wood Thrush,Acadian Flycatcher,Eastern Wood-Pewee,Red-bellied Woodpecker,Red-eyed Vireo
+15,CATO-0003,CATO,39.68504915,-77.48380553,Red-eyed Vireo,Eastern Wood-Pewee,Wood Thrush,Eastern Tufted Titmouse,Acadian Flycatcher
+16,CATO-0004,CATO,39.68267388,-77.48955002,Red-eyed Vireo,Wood Thrush,Ovenbird,Eastern Tufted Titmouse,Eastern Wood-Pewee
+17,CATO-0016,CATO,39.67604733,-77.48348287,Red-eyed Vireo,Wood Thrush,Eastern Tufted Titmouse,Eastern Wood-Pewee,Northern Cardinal
+18,CATO-0022,CATO,39.67117126,-77.50079417,Gray Catbird,Wood Thrush,Northern Cardinal,Red-eyed Vireo,American Redstart
+19,CATO-0035,CATO,39.66923361,-77.486153,Eastern Wood-Pewee,Red-eyed Vireo,Wood Thrush,Blue Jay,Red-bellied Woodpecker
+20,CATO-0037,CATO,39.66935822,-77.48032895,Wood Thrush,Red-eyed Vireo,Eastern Wood-Pewee,Scarlet Tanager,Eastern Tufted Titmouse
+21,CATO-0049,CATO,39.66710775,-77.48024843,Red-eyed Vireo,Wood Thrush,Scarlet Tanager,Eastern Wood-Pewee,Eastern Tufted Titmouse
+22,CATO-0062,CATO,39.66491947,-77.47725607,Wood Thrush,Eastern Wood-Pewee,Red-eyed Vireo,Ovenbird,Scarlet Tanager
+23,CATO-0084,CATO,39.6599191,-77.50038832,Red-eyed Vireo,Eastern Wood-Pewee,Wood Thrush,Acadian Flycatcher,Scarlet Tanager
+24,CATO-0086,CATO,39.66004439,-77.49456511,Red-eyed Vireo,Wood Thrush,Ovenbird,Scarlet Tanager,Eastern Wood-Pewee
+25,CATO-0092,CATO,39.66041853,-77.47709527,Wood Thrush,Scarlet Tanager,Red-eyed Vireo,Eastern Wood-Pewee,Hooded Warbler
+26,CATO-0094,CATO,39.66054265,-77.47127191,Red-eyed Vireo,Wood Thrush,Ovenbird,Eastern Wood-Pewee,Blue Jay
+27,CATO-0098,CATO,39.66079003,-77.4596251,Red-eyed Vireo,Wood Thrush,Ovenbird,Eastern Wood-Pewee,American Robin
+28,CATO-0101,CATO,39.6609748,-77.45088989,Ovenbird,Red-eyed Vireo,Wood Thrush,Eastern Wood-Pewee,Scarlet Tanager
+29,CATO-0104,CATO,39.65798133,-77.48574956,Red-eyed Vireo,Acadian Flycatcher,Wood Thrush,Ovenbird,Eastern Wood-Pewee
+30,CATO-0150,CATO,39.65422324,-77.4506513,Ovenbird,Wood Thrush,Red-eyed Vireo,Eastern Wood-Pewee,Scarlet Tanager
+31,CATO-0153,CATO,39.65110513,-77.49133011,Ovenbird,Red-eyed Vireo,American Crow,Veery,Hooded Warbler
+32,CATO-0158,CATO,39.65141662,-77.47677377,Red-eyed Vireo,Wood Thrush,Scarlet Tanager,Eastern Wood-Pewee,Acadian Flycatcher
+33,CATO-0160,CATO,39.65154071,-77.47095117,Red-eyed Vireo,Eastern Wood-Pewee,Wood Thrush,Ovenbird,Scarlet Tanager
+34,CATO-0176,CATO,39.649104,-77.47960461,Red-eyed Vireo,Scarlet Tanager,Eastern Wood-Pewee,American Crow,Ovenbird
+35,CATO-0206,CATO,39.64741019,-77.45332396,Red-eyed Vireo,Eastern Wood-Pewee,Wood Thrush,Scarlet Tanager,Ovenbird
+36,CATO-0211,CATO,39.6477169,-77.43876798,Eastern Wood-Pewee,Red-eyed Vireo,Ovenbird,Scarlet Tanager,Blue Jay
+37,CATO-0237,CATO,39.64247676,-77.4735415,Red-eyed Vireo,Eastern Wood-Pewee,Wood Thrush,Scarlet Tanager,American Robin
+38,CATO-0238,CATO,39.64253875,-77.47063057,Red-eyed Vireo,Eastern Wood-Pewee,Wood Thrush,American Robin,Scarlet Tanager
+39,CATO-0242,CATO,39.64278598,-77.45898677,Wood Thrush,Eastern Wood-Pewee,Red-eyed Vireo,Scarlet Tanager,American Robin
+40,CATO-0258,CATO,39.64041201,-77.46472875,Wood Thrush,Scarlet Tanager,Eastern Wood-Pewee,Red-eyed Vireo,American Robin
+41,CATO-0268,CATO,39.64102637,-77.43561974,Eastern Wood-Pewee,Scarlet Tanager,Red-eyed Vireo,Ovenbird,Blue Jay
+42,CATO-0271,CATO,39.63778942,-77.48211323,Eastern Towhee,Wood Thrush,Blue Jay,Eastern Wood-Pewee,Hooded Warbler
+43,CATO-0275,CATO,39.63803777,-77.47047032,Eastern Wood-Pewee,Red-eyed Vireo,Wood Thrush,Scarlet Tanager,White-breasted Nuthatch
+44,CATO-0280,CATO,39.63834657,-77.45591649,Red-eyed Vireo,Scarlet Tanager,Wood Thrush,Ovenbird,Blue Jay
+45,CATO-0294,CATO,39.63560114,-77.47912212,Eastern Wood-Pewee,Red-eyed Vireo,Scarlet Tanager,Wood Thrush,Blue Jay
+46,CATO-0302,CATO,39.63609605,-77.45583685,Red-eyed Vireo,Wood Thrush,Eastern Wood-Pewee,Ovenbird,Scarlet Tanager
+47,CATO-0303,CATO,39.63615758,-77.45292615,Red-eyed Vireo,Wood Thrush,Acadian Flycatcher,Scarlet Tanager,Eastern Wood-Pewee
+48,CATO-0311,CATO,39.63664725,-77.42964024,Red-eyed Vireo,Wood Thrush,Eastern Wood-Pewee,Ovenbird,Red-bellied Woodpecker
+49,CATO-0313,CATO,39.63676894,-77.42381867,Red-eyed Vireo,Eastern Wood-Pewee,Wood Thrush,American Robin,Ovenbird
+50,CATO-0316,CATO,39.63359867,-77.46739955,Red-eyed Vireo,Eastern Wood-Pewee,Scarlet Tanager,Acadian Flycatcher,Blue Jay
+51,CATO-0323,CATO,39.6340299,-77.44702538,Red-eyed Vireo,Eastern Wood-Pewee,Scarlet Tanager,Wood Thrush,Ovenbird
+52,CATO-0330,CATO,39.63445756,-77.42665077,Eastern Wood-Pewee,Wood Thrush,Red-eyed Vireo,Scarlet Tanager,Blue Jay
+53,CATO-0331,CATO,39.63451836,-77.42374008,Wood Thrush,Eastern Wood-Pewee,Blue Jay,Scarlet Tanager,Red-eyed Vireo
+54,CATO-0333,CATO,39.63147174,-77.46149859,Red-eyed Vireo,Scarlet Tanager,Acadian Flycatcher,Eastern Tufted Titmouse,Blue Jay
+55,CATO-0342,CATO,39.63232851,-77.42075088,Eastern Wood-Pewee,Wood Thrush,American Robin,Blue Jay,Red-eyed Vireo
+56,CATO-0346,CATO,39.62983462,-77.4323144,Red-eyed Vireo,Eastern Wood-Pewee,Scarlet Tanager,Blue Jay,Ovenbird
+57,CATO-0347,CATO,39.62989556,-77.42940392,Eastern Wood-Pewee,Scarlet Tanager,Blue Jay,Red-eyed Vireo,Wood Thrush
+58,CATO-0359,CATO,39.62533349,-77.43215671,Red-eyed Vireo,Eastern Wood-Pewee,Scarlet Tanager,Wood Thrush,Blue Jay
+59,CATO-0365,CATO,39.62083236,-77.43199906,Wood Thrush,Eastern Wood-Pewee,Red-eyed Vireo,Blue Jay,Downy Woodpecker
+60,CHOH-0002,CHOH,39.69722646,-78.18390919,Carolina Wren,American Robin,Common Grackle,Blue Jay,Eastern Tufted Titmouse
+61,CHOH-0006,CHOH,39.69240811,-78.19534721,Northern Cardinal,Eastern Tufted Titmouse,American Crow,Red-bellied Woodpecker,Carolina Wren
+62,CHOH-0008,CHOH,39.69352364,-78.15458929,Canada Goose,Song Sparrow,Northern Cardinal,Carolina Wren,Common Grackle
+63,CHOH-0012,CHOH,39.6916694,-78.13993034,Red-eyed Vireo,Northern Cardinal,Carolina Wren,Eastern Tufted Titmouse,Song Sparrow
+64,CHOH-0026,CHOH,39.68353478,-78.10750133,Carolina Wren,Eastern Tufted Titmouse,Red-eyed Vireo,Song Sparrow,American Goldfinch
+65,CHOH-0074,CHOH,39.64348035,-78.2542611,Red-eyed Vireo,Northern Cardinal,Carolina Wren,Song Sparrow,Acadian Flycatcher
+66,CHOH-0076,CHOH,39.64908952,-78.04769452,Red-eyed Vireo,Northern Cardinal,Carolina Wren,Eastern Tufted Titmouse,Blue-gray Gnatcatcher
+67,CHOH-0081,CHOH,39.6390023,-78.33269108,Red-eyed Vireo,Eastern Tufted Titmouse,Indigo Bunting,American Crow,Carolina Wren
+68,CHOH-0102,CHOH,39.64249399,-78.04157896,Red-eyed Vireo,Carolina Wren,Eastern Tufted Titmouse,Northern Cardinal,Blue-gray Gnatcatcher
+69,CHOH-0106,CHOH,39.63116407,-78.37017357,American Crow,Red-eyed Vireo,Blue Jay,Eastern Tufted Titmouse,Indigo Bunting
+70,CHOH-0196,CHOH,39.59886996,-78.76155742,American Robin,Common Grackle,Northern Cardinal,Eastern Wood-Pewee,Carolina Wren
+71,CHOH-0198,CHOH,39.59905821,-78.75574634,Canada Goose,American Robin,Song Sparrow,Northern Cardinal,Gray Catbird
+72,CHOH-0239,CHOH,39.61624051,-77.92395652,Northern Cardinal,Carolina Wren,Eastern Tufted Titmouse,American Robin,Indigo Bunting
+73,CHOH-0253,CHOH,39.61486478,-77.88895723,Acadian Flycatcher,Northern Cardinal,American Goldfinch,Carolina Wren,Red-bellied Woodpecker
+74,CHOH-0256,CHOH,39.58847574,-78.73480267,Northern Cardinal,Carolina Wren,Eastern Tufted Titmouse,Red-eyed Vireo,Red-bellied Woodpecker
+75,CHOH-0262,CHOH,39.61070845,-77.9644858,American Crow,Northern Cardinal,Acadian Flycatcher,Red-bellied Woodpecker,American Goldfinch
+76,CHOH-0267,CHOH,39.61107892,-77.94994364,Wood Thrush,Acadian Flycatcher,Northern Cardinal,Eastern Wood-Pewee,Eastern Tufted Titmouse
+77,CHOH-0281,CHOH,39.59607447,-78.41504227,Red-eyed Vireo,Indigo Bunting,Northern Cardinal,Red-bellied Woodpecker,American Crow
+78,CHOH-0286,CHOH,39.60875537,-77.95275645,Northern Cardinal,Eastern Wood-Pewee,Carolina Wren,Red-bellied Woodpecker,Acadian Flycatcher
+79,CHOH-0360,CHOH,39.60601043,-77.8827661,Northern Cardinal,Acadian Flycatcher,American Goldfinch,Eastern Tufted Titmouse,Carolina Wren
+80,CHOH-0380,CHOH,39.6012633,-77.98154977,Red-eyed Vireo,Northern Cardinal,Acadian Flycatcher,American Crow,Eastern Tufted Titmouse
+81,CHOH-0389,CHOH,39.60504881,-77.83032115,Northern Cardinal,Carolina Wren,American Goldfinch,Red-eyed Vireo,Eastern Tufted Titmouse
+82,CHOH-0407,CHOH,39.60151094,-77.88257939,Northern Cardinal,Acadian Flycatcher,Carolina Wren,American Goldfinch,Eastern Tufted Titmouse
+83,CHOH-0428,CHOH,39.57292776,-78.72814794,Carolina Wren,Acadian Flycatcher,American Crow,Red-eyed Vireo,Blue-gray Gnatcatcher
+84,CHOH-0433,CHOH,39.58275368,-78.40856726,Northern Cardinal,Red-eyed Vireo,Indigo Bunting,Blue-gray Gnatcatcher,American Crow
+85,CHOH-0443,CHOH,39.57895732,-78.46076092,Red-eyed Vireo,American Crow,Indigo Bunting,Eastern Tufted Titmouse,Blue-gray Gnatcatcher
+86,CHOH-0487,CHOH,39.55802927,-78.70116859,Indigo Bunting,Red-eyed Vireo,Eastern Tufted Titmouse,Northern Cardinal,Wood Thrush
+87,CHOH-0489,CHOH,39.56563937,-78.45427916,Red-eyed Vireo,Scarlet Tanager,Pine Warbler,Indigo Bunting,Eastern Tufted Titmouse
+88,CHOH-0539,CHOH,39.54734381,-78.68314898,Indigo Bunting,Eastern Tufted Titmouse,Red-eyed Vireo,Blue-gray Gnatcatcher,Red-bellied Woodpecker
+89,CHOH-0577,CHOH,39.54955352,-78.46511538,Blue Jay,Eastern Tufted Titmouse,American Crow,Indigo Bunting,Red-eyed Vireo
+90,CHOH-0586,CHOH,39.5411513,-78.66537162,Indigo Bunting,Eastern Towhee,Northern Cardinal,Blue-gray Gnatcatcher,Red-eyed Vireo
+91,CHOH-0609,CHOH,39.53990732,-78.63331562,Red-eyed Vireo,Indigo Bunting,Northern Cardinal,White-breasted Nuthatch,Blue-gray Gnatcatcher
+92,CHOH-0661,CHOH,39.54272131,-78.46768362,Eastern Tufted Titmouse,Red-eyed Vireo,American Crow,Eastern Wood-Pewee,Wood Thrush
+93,CHOH-0666,CHOH,39.54315413,-78.45316281,Red-eyed Vireo,Indigo Bunting,European Starling,American Crow,Blue-gray Gnatcatcher
+94,CHOH-0677,CHOH,39.53676595,-78.58952988,Northern Cardinal,Indigo Bunting,Carolina Wren,Blue-gray Gnatcatcher,Red-eyed Vireo
+95,CHOH-0679,CHOH,39.54055951,-78.46466754,Eastern Towhee,Pine Warbler,American Crow,Blue Jay,Indigo Bunting
+96,CHOH-0697,CHOH,39.55419384,-77.88352767,Blue Jay,Brown-headed Cowbird,Common Grackle,Eastern Tufted Titmouse,Northern Cardinal
+97,CHOH-0755,CHOH,39.51936592,-78.49559518,Indigo Bunting,Eastern Tufted Titmouse,Red-eyed Vireo,Northern Parula,Red-bellied Woodpecker
+98,CHOH-0788,CHOH,39.5190571,-77.84717963,Northern Cardinal,American Crow,Acadian Flycatcher,Carolina Wren,Eastern Tufted Titmouse
+99,CHOH-0795,CHOH,39.51273334,-77.82947608,American Crow,Northern Cardinal,Canada Goose,Acadian Flycatcher,Carolina Wren
+100,CHOH-0806,CHOH,39.49895055,-77.84054455,Northern Cardinal,American Crow,Acadian Flycatcher,American Goldfinch,Carolina Wren
+101,CHOH-0812,CHOH,39.50063384,-77.77084413,Carolina Wren,Northern Cardinal,Chipping Sparrow,Eastern Tufted Titmouse,American Crow
+102,CHOH-0832,CHOH,39.48706452,-77.77321159,Northern Cardinal,Acadian Flycatcher,Carolina Wren,Red-bellied Woodpecker,American Goldfinch
+103,CHOH-0847,CHOH,39.47307777,-77.79299708,Northern Cardinal,Wood Thrush,Eastern Wood-Pewee,Carolina Wren,Eastern Tufted Titmouse
+104,CHOH-0856,CHOH,39.45950812,-77.79535959,Carolina Wren,Eastern Tufted Titmouse,Acadian Flycatcher,Eastern Wood-Pewee,Northern Cardinal
+105,CHOH-0932,CHOH,39.36849926,-77.7394966,Wood Thrush,Acadian Flycatcher,Red-eyed Vireo,Northern Cardinal,Eastern Tufted Titmouse
+106,CHOH-0941,CHOH,39.345793,-77.7473111,Eastern Wood-Pewee,Wood Thrush,American Crow,Northern Cardinal,Red-bellied Woodpecker
+107,CHOH-0942,CHOH,39.34586143,-77.74441316,Eastern Wood-Pewee,Red-eyed Vireo,American Crow,Red-bellied Woodpecker,Blue Jay
+108,CHOH-0961,CHOH,39.33672409,-77.74985609,Warbling Vireo,Acadian Flycatcher,Eastern Tufted Titmouse,Eastern Wood-Pewee,Northern Cardinal
+109,CHOH-0983,CHOH,39.31856065,-77.65925922,Canada Goose,Carolina Wren,American Crow,Eastern Tufted Titmouse,Red-eyed Vireo
+110,CHOH-0986,CHOH,39.31650871,-77.65048311,Northern Cardinal,American Crow,Eastern Tufted Titmouse,Carolina Wren,Carolina Chickadee
+111,CHOH-0989,CHOH,39.31233717,-77.63582916,Northern Cardinal,Carolina Wren,Carolina Chickadee,American Crow,Fish Crow
+112,CHOH-1018,CHOH,39.28276692,-77.54777702,Carolina Wren,Northern Cardinal,Wood Thrush,American Goldfinch,Eastern Wood-Pewee
+113,CHOH-1028,CHOH,39.27176735,-77.53578774,Red-eyed Vireo,Northern Cardinal,Carolina Wren,Acadian Flycatcher,American Goldfinch
+114,CHOH-1036,CHOH,39.25676516,-77.50048226,Northern Cardinal,Carolina Wren,American Crow,Red-eyed Vireo,Acadian Flycatcher
+115,CHOH-1044,CHOH,39.24600724,-77.47692702,Acadian Flycatcher,American Crow,Northern Cardinal,Red-eyed Vireo,Eastern Tufted Titmouse
+116,CHOH-1045,CHOH,39.24606879,-77.47403256,Acadian Flycatcher,American Goldfinch,Northern Cardinal,Eastern Tufted Titmouse,Red-eyed Vireo
+117,CHOH-1055,CHOH,39.23943974,-77.46800684,Gray Catbird,Acadian Flycatcher,Red-eyed Vireo,Northern Cardinal,American Goldfinch
+118,CHOH-1063,CHOH,39.235061,-77.46206098,Northern Cardinal,American Crow,Red-bellied Woodpecker,White-breasted Nuthatch,Red-eyed Vireo
+119,CHOH-1081,CHOH,39.22174021,-77.45290839,Acadian Flycatcher,Eastern Wood-Pewee,Carolina Wren,Northern Cardinal,Red-eyed Vireo
+120,CHOH-1111,CHOH,39.18286602,-77.48049627,American Crow,Acadian Flycatcher,Carolina Wren,Red-bellied Woodpecker,Red-eyed Vireo
+121,CHOH-1124,CHOH,39.17586714,-77.49182512,Wood Thrush,Eastern Wood-Pewee,Red-bellied Woodpecker,Blue Jay,Scarlet Tanager
+122,CHOH-1136,CHOH,39.17130397,-77.49455751,Wood Thrush,Eastern Wood-Pewee,Blue Jay,Red-eyed Vireo,White-breasted Nuthatch
+123,CHOH-1143,CHOH,39.16917705,-77.48869541,Eastern Wood-Pewee,Wood Thrush,Blue Jay,Red-bellied Woodpecker,American Robin
+124,CHOH-1148,CHOH,39.15955323,-77.51728667,Acadian Flycatcher,American Crow,Carolina Wren,Gray Catbird,Fish Crow
+125,CHOH-1183,CHOH,39.1150996,-77.48968212,Northern Cardinal,Carolina Wren,Acadian Flycatcher,Eastern Tufted Titmouse,American Crow
+126,CHOH-1186,CHOH,39.11528449,-77.48101488,Northern Cardinal,Eastern Tufted Titmouse,Indigo Bunting,Acadian Flycatcher,Red-eyed Vireo
+127,CHOH-1191,CHOH,39.11303381,-77.48093591,Northern Cardinal,Blue-gray Gnatcatcher,Eastern Tufted Titmouse,Red-bellied Woodpecker,Red-eyed Vireo
+128,CHOH-1196,CHOH,39.11084461,-77.47796804,Eastern Tufted Titmouse,Acadian Flycatcher,Blue-gray Gnatcatcher,Indigo Bunting,Red-bellied Woodpecker
+129,CHOH-1197,CHOH,39.11090602,-77.47507912,Indigo Bunting,Blue-gray Gnatcatcher,Eastern Tufted Titmouse,Eastern Towhee,Northern Cardinal
+130,CHOH-1201,CHOH,39.10871666,-77.47211151,Eastern Tufted Titmouse,Carolina Wren,Indigo Bunting,Northern Cardinal,Eastern Towhee
+131,CHOH-1211,CHOH,39.09527369,-77.46875132,Acadian Flycatcher,Carolina Wren,Red-bellied Woodpecker,Eastern Tufted Titmouse,Blue-gray Gnatcatcher
+132,CHOH-1217,CHOH,39.08426425,-77.45680734,Eastern Tufted Titmouse,Acadian Flycatcher,Carolina Wren,Red-eyed Vireo,Blue-gray Gnatcatcher
+133,CHOH-1223,CHOH,39.07793639,-77.43635957,American Goldfinch,Northern Cardinal,Carolina Wren,American Crow,Common Grackle
+134,CHOH-1226,CHOH,39.07586639,-77.42761936,Northern Cardinal,Carolina Wren,Acadian Flycatcher,Eastern Wood-Pewee,Eastern Tufted Titmouse
+135,CHOH-1235,CHOH,39.06971182,-77.39851421,Acadian Flycatcher,Northern Cardinal,Eastern Tufted Titmouse,Carolina Wren,Blue-gray Gnatcatcher
+136,CHOH-1241,CHOH,39.06775717,-77.38400128,Northern Cardinal,Carolina Wren,Blue-gray Gnatcatcher,Eastern Tufted Titmouse,Carolina Chickadee
+137,CHOH-1256,CHOH,39.06863503,-77.3406899,Black Vulture,European Starling,Common Grackle,Fish Crow,American Crow
+138,CHOH-1319,CHOH,39.03663219,-77.25010148,Carolina Wren,Northern Cardinal,White-breasted Nuthatch,Blue Jay,Red-bellied Woodpecker
+139,CHOH-1328,CHOH,39.01659449,-77.2379167,Eastern Tufted Titmouse,Red-eyed Vireo,Acadian Flycatcher,Carolina Wren,Red-bellied Woodpecker
+140,CHOH-1336,CHOH,38.98721918,-77.24276325,Great Blue Heron,Blue-gray Gnatcatcher,Eastern Tufted Titmouse,Double-crested Cormorant,American Goldfinch
+141,CHOH-1342,CHOH,38.97634996,-77.22222037,Eastern Tufted Titmouse,Blue-gray Gnatcatcher,Carolina Wren,Northern Cardinal,Canada Goose
+142,CHOH-1343,CHOH,38.97640487,-77.21933639,Eastern Tufted Titmouse,Northern Cardinal,Northern Parula,Canada Goose,Blue-gray Gnatcatcher
+143,CHOH-1350,CHOH,38.97420855,-77.21638219,Canada Goose,Carolina Wren,Eastern Tufted Titmouse,Blue-gray Gnatcatcher,Indigo Bunting
+144,CHOH-1388,CHOH,38.92660605,-77.11108637,Northern Cardinal,Blue-gray Gnatcatcher,Carolina Wren,Cedar Waxwing,Eastern Tufted Titmouse
+145,GWMP-0008,GWMP,39.0048378,-77.26352761,Wood Thrush,Ovenbird,American Robin,Eastern Wood-Pewee,Red-bellied Woodpecker
+146,GWMP-0019,GWMP,38.9981964,-77.25754276,Wood Thrush,Eastern Wood-Pewee,Blue Jay,Acadian Flycatcher,Eastern Tufted Titmouse
+147,GWMP-0040,GWMP,38.99161031,-77.24867451,Blue-gray Gnatcatcher,Northern Cardinal,Double-crested Cormorant,Black Vulture,Eastern Tufted Titmouse
+148,GWMP-0045,GWMP,38.99188751,-77.2342517,Blue Jay,Wood Thrush,Eastern Wood-Pewee,Red-bellied Woodpecker,Eastern Tufted Titmouse
+149,GWMP-0054,GWMP,38.98963638,-77.23418089,Blue Jay,Eastern Wood-Pewee,Wood Thrush,Red-bellied Woodpecker,Eastern Tufted Titmouse
+150,GWMP-0055,GWMP,38.98969161,-77.2312964,Blue Jay,Wood Thrush,Red-bellied Woodpecker,Eastern Wood-Pewee,Eastern Tufted Titmouse
+151,GWMP-0057,GWMP,38.98694095,-77.25718503,Eastern Tufted Titmouse,Blue Jay,American Robin,Eastern Wood-Pewee,Red-bellied Woodpecker
+152,GWMP-0058,GWMP,38.98699674,-77.25430069,Blue Jay,Red-bellied Woodpecker,Eastern Wood-Pewee,Eastern Tufted Titmouse,Wood Thrush
+153,GWMP-0059,GWMP,38.98705245,-77.25141634,Eastern Tufted Titmouse,Red-bellied Woodpecker,Louisiana Waterthrush,Red-eyed Vireo,Northern Cardinal
+154,GWMP-0062,GWMP,38.98732997,-77.23699449,Red-eyed Vireo,Eastern Tufted Titmouse,Wood Thrush,Eastern Wood-Pewee,Blue Jay
+155,GWMP-0072,GWMP,38.98496806,-77.24269219,Blue-gray Gnatcatcher,Eastern Tufted Titmouse,Red-eyed Vireo,Northern Cardinal,Red-bellied Woodpecker
+156,GWMP-0080,GWMP,38.98277237,-77.23973693,Blue-gray Gnatcatcher,Eastern Tufted Titmouse,Northern Cardinal,Carolina Wren,Red-eyed Vireo
+157,GWMP-0086,GWMP,38.98035478,-77.24831827,Eastern Wood-Pewee,Red-eyed Vireo,Eastern Tufted Titmouse,Red-bellied Woodpecker,Blue Jay
+158,GWMP-0094,GWMP,38.97860111,-77.22229076,Eastern Tufted Titmouse,Northern Cardinal,Blue-gray Gnatcatcher,Carolina Wren,Red-bellied Woodpecker
+159,GWMP-0120,GWMP,38.96617845,-77.16419656,Northern Cardinal,Carolina Wren,Eastern Tufted Titmouse,Blue Jay,Carolina Chickadee
+160,GWMP-0129,GWMP,38.96398067,-77.16124444,Northern Cardinal,American Robin,Wood Thrush,Blue Jay,Eastern Tufted Titmouse
+161,GWMP-0139,GWMP,38.96194253,-77.14964195,Blue Jay,American Robin,Eastern Tufted Titmouse,Northern Cardinal,Red-eyed Vireo
+162,GWMP-0145,GWMP,38.95969127,-77.14957389,American Robin,Wood Thrush,Eastern Tufted Titmouse,Eastern Wood-Pewee,Red-eyed Vireo
+163,GWMP-0173,GWMP,38.94226088,-77.11731944,Northern Cardinal,Carolina Wren,Eastern Tufted Titmouse,Blue-gray Gnatcatcher,Red-bellied Woodpecker
+164,GWMP-0200,GWMP,38.90230731,-77.08442167,Northern Cardinal,Carolina Chickadee,Carolina Wren,American Robin,Common Grackle
+165,GWMP-0207,GWMP,38.89816295,-77.06412239,Northern Cardinal,Carolina Wren,Eastern Tufted Titmouse,Red-eyed Vireo,Blue-gray Gnatcatcher
+166,GWMP-0208,GWMP,38.89821387,-77.06124128,Northern Cardinal,Carolina Wren,Eastern Tufted Titmouse,Red-eyed Vireo,Blue-gray Gnatcatcher
+167,GWMP-0253,GWMP,38.83102449,-77.0391422,Northern Cardinal,Red-eyed Vireo,Carolina Wren,American Robin,Blue-gray Gnatcatcher
+168,GWMP-0254,GWMP,38.82872272,-77.04195629,Red-winged Blackbird,European Starling,American Robin,Cedar Waxwing,Northern Cardinal
+169,GWMP-0256,GWMP,38.82647125,-77.04189195,Red-winged Blackbird,Northern Cardinal,American Robin,Carolina Wren,Cedar Waxwing
+170,GWMP-0286,GWMP,38.76547969,-77.05166065,Red-winged Blackbird,Northern Cardinal,Common Grackle,American Goldfinch,Carolina Wren
+171,GWMP-0307,GWMP,38.73851225,-77.0480124,Northern Cardinal,American Robin,European Starling,Common Grackle,Carolina Wren
+172,HAFE-0009,HAFE,39.34204132,-77.71525886,Red-eyed Vireo,Northern Cardinal,Eastern Towhee,Great Crested Flycatcher,Eastern Tufted Titmouse
+173,HAFE-0021,HAFE,39.33754098,-77.71508462,Wood Thrush,Eastern Wood-Pewee,Blue Jay,Eastern Tufted Titmouse,Scarlet Tanager
+174,HAFE-0028,HAFE,39.3352908,-77.71499752,Wood Thrush,Eastern Wood-Pewee,Blue Jay,Red-bellied Woodpecker,Red-eyed Vireo
+175,HAFE-0030,HAFE,39.33201805,-77.75837176,Wood Thrush,Eastern Wood-Pewee,Red-bellied Woodpecker,Northern Cardinal,Blue Jay
+176,HAFE-0039,HAFE,39.33297296,-77.71780792,Eastern Wood-Pewee,Red-eyed Vireo,Wood Thrush,Blue Jay,Scarlet Tanager
+177,HAFE-0042,HAFE,39.32942353,-77.77276944,Northern Cardinal,American Crow,Indigo Bunting,Cedar Waxwing,Carolina Wren
+178,HAFE-0044,HAFE,39.3296304,-77.76407778,American Robin,Blue Jay,Northern Cardinal,Gray Catbird,American Crow
+179,HAFE-0053,HAFE,39.32710436,-77.77557762,Northern Cardinal,Indigo Bunting,Field Sparrow,Eastern Towhee,American Goldfinch
+180,HAFE-0061,HAFE,39.32833709,-77.72342816,Red-eyed Vireo,American Crow,Scarlet Tanager,Great Crested Flycatcher,Blue Jay
+181,HAFE-0074,HAFE,39.32622244,-77.71754643,Eastern Tufted Titmouse,Red-eyed Vireo,Eastern Wood-Pewee,Great Crested Flycatcher,American Crow
+182,HAFE-0083,HAFE,39.32336022,-77.74353292,Carolina Wren,Northern Cardinal,American Crow,Blue Jay,Chimney Swift
+183,HAFE-0118,HAFE,39.31940421,-77.72018194,Red-eyed Vireo,Eastern Wood-Pewee,Scarlet Tanager,American Crow,Eastern Tufted Titmouse
+184,HAFE-0133,HAFE,39.31674632,-77.73747552,Red-eyed Vireo,Eastern Wood-Pewee,Indigo Bunting,Scarlet Tanager,Great Crested Flycatcher
+185,HAFE-0154,HAFE,39.3143597,-77.7431811,Red-eyed Vireo,American Crow,Northern Cardinal,Red-bellied Woodpecker,Carolina Wren
+186,HAFE-0160,HAFE,39.31537623,-77.69973015,Wood Thrush,Eastern Tufted Titmouse,Northern Cardinal,Red-eyed Vireo,Red-bellied Woodpecker
+187,HAFE-0174,HAFE,39.31204123,-77.74598973,Red-eyed Vireo,American Crow,Eastern Wood-Pewee,Northern Cardinal,Eastern Tufted Titmouse
+188,HAFE-0192,HAFE,39.3097227,-77.74879817,Northern Cardinal,Eastern Tufted Titmouse,Red-eyed Vireo,Carolina Wren,American Crow
+189,HAFE-0195,HAFE,39.3099277,-77.74010877,Eastern Wood-Pewee,Red-eyed Vireo,Ovenbird,Eastern Tufted Titmouse,Wood Thrush
+190,HAFE-0208,HAFE,39.30754098,-77.74581371,Eastern Wood-Pewee,Wood Thrush,American Crow,Northern Cardinal,Scarlet Tanager
+191,HAFE-0218,HAFE,39.30529085,-77.74572572,Eastern Wood-Pewee,Scarlet Tanager,American Crow,Cedar Waxwing,Wood Thrush
+192,MANA-0002,MANA,38.83921162,-77.54051429,American Crow,Eastern Tufted Titmouse,Carolina Wren,Northern Cardinal,Great Crested Flycatcher
+193,MANA-0011,MANA,38.83764549,-77.50877925,Red-eyed Vireo,Eastern Tufted Titmouse,Carolina Wren,Red-bellied Woodpecker,Acadian Flycatcher
+194,MANA-0025,MANA,38.83308215,-77.51149872,Eastern Tufted Titmouse,Red-eyed Vireo,Blue-gray Gnatcatcher,Acadian Flycatcher,Red-bellied Woodpecker
+195,MANA-0027,MANA,38.83020888,-77.54019405,Red-eyed Vireo,Eastern Tufted Titmouse,American Crow,Blue-gray Gnatcatcher,Eastern Wood-Pewee
+196,MANA-0030,MANA,38.83039638,-77.5315618,Eastern Tufted Titmouse,Northern Cardinal,American Crow,Blue-gray Gnatcatcher,Eastern Wood-Pewee
+197,MANA-0039,MANA,38.82795819,-77.54011402,Eastern Tufted Titmouse,Northern Cardinal,American Crow,Blue-gray Gnatcatcher,Red-eyed Vireo
+198,MANA-0054,MANA,38.82564487,-77.54291121,Eastern Tufted Titmouse,Northern Cardinal,Field Sparrow,Prairie Warbler,Indigo Bunting
+199,MANA-0060,MANA,38.82601961,-77.52564777,Northern Cardinal,Eastern Tufted Titmouse,Blue-gray Gnatcatcher,Eastern Towhee,Carolina Wren
+200,MANA-0067,MANA,38.82657693,-77.499752,Northern Cardinal,Eastern Towhee,Carolina Wren,American Crow,Prairie Warbler
+201,MANA-0091,MANA,38.82076628,-77.56001303,American Crow,Field Sparrow,Indigo Bunting,Eastern Towhee,Blue Jay
+202,MANA-0094,MANA,38.82095521,-77.55138206,Red-winged Blackbird,American Crow,Common Yellowthroat,Indigo Bunting,Cedar Waxwing
+203,MANA-0106,MANA,38.8218903,-77.50822597,Blue-gray Gnatcatcher,Red-eyed Vireo,Eastern Tufted Titmouse,Carolina Wren,Eastern Wood-Pewee
+204,MANA-0119,MANA,38.81901798,-77.53691701,Field Sparrow,Indigo Bunting,Northern Cardinal,American Crow,Eastern Towhee
+205,MANA-0131,MANA,38.81607543,-77.56848213,Prairie Warbler,Eastern Towhee,Common Yellowthroat,Field Sparrow,Northern Cardinal
+206,MANA-0163,MANA,38.81476603,-77.52525002,Blue-gray Gnatcatcher,Northern Cardinal,Carolina Wren,Eastern Tufted Titmouse,Carolina Chickadee
+207,MANA-0170,MANA,38.81519982,-77.5051121,Eastern Tufted Titmouse,Carolina Wren,Red-eyed Vireo,Blue-gray Gnatcatcher,Carolina Chickadee
+208,MANA-0202,MANA,38.80970185,-77.55098034,American Goldfinch,Northern Cardinal,American Crow,Carolina Wren,Eastern Tufted Titmouse
+209,MANA-0205,MANA,38.80995266,-77.53947405,Eastern Wood-Pewee,Red-eyed Vireo,Eastern Tufted Titmouse,Great Crested Flycatcher,American Goldfinch
+210,MANA-0218,MANA,38.8109446,-77.49344748,Northern Cardinal,Eastern Tufted Titmouse,American Goldfinch,Carolina Wren,Blue-gray Gnatcatcher
+211,MANA-0223,MANA,38.80726233,-77.55952937,Eastern Tufted Titmouse,Carolina Chickadee,Eastern Wood-Pewee,Field Sparrow,Blue-gray Gnatcatcher
+212,MANA-0229,MANA,38.80776449,-77.53651759,Eastern Tufted Titmouse,Carolina Wren,European Starling,Eastern Wood-Pewee,Northern Cardinal
+213,MANA-0240,MANA,38.80482221,-77.56807779,Carolina Wren,Eastern Tufted Titmouse,Blue-gray Gnatcatcher,Carolina Chickadee,Northern Cardinal
+214,MANA-0243,MANA,38.80501167,-77.55944879,Field Sparrow,Eastern Tufted Titmouse,Eastern Towhee,Northern Cardinal,Carolina Chickadee
+215,MANA-0253,MANA,38.80576315,-77.52493199,Red-eyed Vireo,Eastern Tufted Titmouse,Eastern Wood-Pewee,American Robin,Blue-gray Gnatcatcher
+216,MONO-0026,MONO,39.36948256,-77.38843028,American Goldfinch,Song Sparrow,Acadian Flycatcher,Blue-gray Gnatcatcher,Common Grackle
+217,MONO-0038,MONO,39.36735077,-77.38255426,American Robin,Red-bellied Woodpecker,Blue Jay,Wood Thrush,Carolina Wren
+218,MONO-0039,MONO,39.36741014,-77.37965459,Wood Thrush,American Robin,Eastern Wood-Pewee,Blue Jay,Red-bellied Woodpecker
+219,MONO-0044,MONO,39.36480215,-77.39697548,Red-eyed Vireo,Northern Cardinal,Carolina Wren,Indigo Bunting,Eastern Tufted Titmouse
+220,MONO-0052,MONO,39.36249164,-77.39979793,Carolina Wren,Indigo Bunting,Rock Pigeon,Blue-gray Gnatcatcher,Eastern Wood-Pewee
+221,MONO-0056,MONO,39.36278985,-77.3853007,American Robin,Northern Cardinal,Eastern Wood-Pewee,Blue Jay,Mourning Dove
+222,MONO-0061,MONO,39.36024092,-77.39972087,Northern Cardinal,Wood Thrush,Acadian Flycatcher,Eastern Tufted Titmouse,Carolina Wren
+223,MONO-0069,MONO,39.35793035,-77.40254305,Wood Thrush,Eastern Tufted Titmouse,Red-bellied Woodpecker,American Crow,American Robin
+224,MONO-0074,MONO,39.35549966,-77.41116329,Carolina Wren,Indigo Bunting,Northern Cardinal,Blue-gray Gnatcatcher,Eastern Wood-Pewee
+225,MONO-0077,MONO,39.35567963,-77.40246592,Wood Thrush,Eastern Tufted Titmouse,Eastern Wood-Pewee,Blue Jay,Northern Cardinal
+226,MONO-0084,MONO,39.353369,-77.40528783,Wood Thrush,Eastern Wood-Pewee,Carolina Wren,Brown-headed Cowbird,Blue Jay
+227,MONO-0091,MONO,39.35111829,-77.40521062,Wood Thrush,Eastern Tufted Titmouse,Blue Jay,Eastern Wood-Pewee,Great Crested Flycatcher
+228,MONO-0101,MONO,39.34910675,-77.39353794,Indigo Bunting,Cedar Waxwing,Northern Cardinal,Carolina Wren,Blue Jay
+229,MONO-0105,MONO,39.34691563,-77.39056232,Northern Cardinal,Indigo Bunting,Blue Jay,Carolina Wren,Downy Woodpecker
+230,MONO-0106,MONO,39.34466489,-77.39048559,Wood Thrush,Northern Cardinal,Blue Jay,Eastern Wood-Pewee,Eastern Tufted Titmouse
+231,NACE-0080,NACE,38.98890583,-76.89357855,Eastern Tufted Titmouse,American Goldfinch,Ovenbird,Scarlet Tanager,Blue-gray Gnatcatcher
+232,NACE-0081,NACE,38.98895263,-76.89069347,Carolina Wren,Eastern Tufted Titmouse,Northern Cardinal,Blue Jay,Pine Warbler
+233,NACE-0086,NACE,38.98660735,-76.89640353,Eastern Tufted Titmouse,American Robin,American Goldfinch,Northern Cardinal,Blue Jay
+234,NACE-0087,NACE,38.98665422,-76.89351854,Eastern Tufted Titmouse,Acadian Flycatcher,Blue Jay,Northern Cardinal,Carolina Wren
+235,NACE-0094,NACE,38.98430881,-76.89922832,Eastern Tufted Titmouse,Northern Cardinal,Red-eyed Vireo,American Robin,Blue-gray Gnatcatcher
+236,NACE-0107,NACE,38.9822445,-76.88762892,Red-eyed Vireo,Wood Thrush,Eastern Towhee,Eastern Tufted Titmouse,Northern Cardinal
+237,NACE-0131,NACE,38.97530238,-76.89898765,Eastern Towhee,Eastern Tufted Titmouse,Blue Jay,Carolina Wren,American Goldfinch
+238,NACE-0233,NACE,38.88179335,-76.96854449,European Starling,Northern Cardinal,Chimney Swift,Blue-gray Gnatcatcher,Carolina Wren
+239,NACE-0245,NACE,38.87973553,-76.95696018,Northern Cardinal,American Robin,Eastern Tufted Titmouse,Carolina Wren,Acadian Flycatcher
+240,NACE-0253,NACE,38.87753221,-76.95401794,American Robin,Eastern Tufted Titmouse,Northern Cardinal,Wood Thrush,Downy Woodpecker
+241,NACE-0267,NACE,38.87312533,-76.948134,American Robin,Northern Cardinal,Cedar Waxwing,Carolina Wren,Brown-headed Cowbird
+242,NACE-0269,NACE,38.87322132,-76.94237338,Carolina Wren,Acadian Flycatcher,Red-eyed Vireo,Northern Cardinal,American Robin
+243,NACE-0282,NACE,38.86612942,-76.96234963,American Robin,Wood Thrush,Eastern Towhee,Carolina Wren,Eastern Wood-Pewee
+244,NACE-0296,NACE,38.85918056,-76.97368274,American Robin,Northern Cardinal,European Starling,House Sparrow,Carolina Wren
+245,NACE-0346,NACE,38.81581246,-77.00703619,Carolina Wren,Northern Cardinal,American Robin,Eastern Tufted Titmouse,Blue-gray Gnatcatcher
+246,NACE-0350,NACE,38.81111104,-77.01842055,Carolina Wren,Northern Cardinal,Indigo Bunting,Red-winged Blackbird,Common Grackle
+247,NACE-0398,NACE,38.716298,-77.03012648,Blue Jay,Northern Cardinal,Common Grackle,Red-bellied Woodpecker,Eastern Tufted Titmouse
+248,NACE-0399,NACE,38.71634788,-77.02725262,Blue Jay,Northern Cardinal,Carolina Wren,Eastern Tufted Titmouse,Red-bellied Woodpecker
+249,NACE-0416,NACE,38.70504033,-77.02980799,Eastern Tufted Titmouse,Blue Jay,Carolina Wren,Northern Cardinal,Red-bellied Woodpecker
+250,NACE-0438,NACE,38.6954812,-77.06115637,Northern Cardinal,Carolina Wren,Common Grackle,Eastern Tufted Titmouse,Canada Goose
+251,NACE-0453,NACE,38.69328032,-77.05821885,Northern Cardinal,Eastern Tufted Titmouse,Red-eyed Vireo,Carolina Wren,American Crow
+252,NACE-0468,NACE,38.69403115,-77.01512481,Northern Cardinal,Acadian Flycatcher,Carolina Chickadee,Carolina Wren,Eastern Tufted Titmouse
+253,NACE-0477,NACE,38.69112984,-77.05240871,Northern Cardinal,Red-bellied Woodpecker,American Crow,Carolina Wren,Red-winged Blackbird
+254,NACE-0487,NACE,38.6916307,-77.02368029,Eastern Tufted Titmouse,Red-eyed Vireo,Acadian Flycatcher,American Crow,Wood Thrush
+255,NACE-0491,NACE,38.69182907,-77.01218872,Northern Cardinal,Carolina Wren,American Crow,Eastern Tufted Titmouse,Northern Parula
+256,NACE-0519,NACE,38.68952802,-77.01499843,Northern Cardinal,American Crow,Eastern Tufted Titmouse,Carolina Wren,Indigo Bunting
+257,NACE-0619,NACE,38.67905655,-77.0980438,Acadian Flycatcher,Red-eyed Vireo,Northern Cardinal,Red-bellied Woodpecker,Carolina Wren
+258,NACE-0621,NACE,38.6791595,-77.09229931,Northern Cardinal,Eastern Tufted Titmouse,Red-eyed Vireo,American Crow,Blue-gray Gnatcatcher
+259,NACE-0623,NACE,38.67926217,-77.08655478,Eastern Tufted Titmouse,Blue-gray Gnatcatcher,Red-eyed Vireo,Eastern Wood-Pewee,Carolina Chickadee
+260,NACE-0649,NACE,38.67670187,-77.10372233,Indigo Bunting,Cedar Waxwing,Northern Cardinal,American Crow,Field Sparrow
+261,PRWI-0012,PRWI,38.62539286,-77.4267044,Red-eyed Vireo,Canada Goose,Eastern Wood-Pewee,Ovenbird,Eastern Tufted Titmouse
+262,PRWI-0014,PRWI,38.62568972,-77.41235706,Red-eyed Vireo,Acadian Flycatcher,Ovenbird,Eastern Wood-Pewee,Wood Thrush
+263,PRWI-0020,PRWI,38.62326085,-77.42088976,Red-eyed Vireo,Eastern Wood-Pewee,Eastern Tufted Titmouse,Acadian Flycatcher,Ovenbird
+264,PRWI-0025,PRWI,38.62355698,-77.40654279,Red-eyed Vireo,Eastern Tufted Titmouse,Ovenbird,Pine Warbler,American Crow
+265,PRWI-0028,PRWI,38.62083137,-77.42942186,Red-eyed Vireo,Eastern Wood-Pewee,Ovenbird,Wood Thrush,Acadian Flycatcher
+266,PRWI-0039,PRWI,38.61858041,-77.42934589,Red-eyed Vireo,Wood Thrush,Ovenbird,Eastern Wood-Pewee,Acadian Flycatcher
+267,PRWI-0041,PRWI,38.61869948,-77.42360753,Red-eyed Vireo,Acadian Flycatcher,Blue-gray Gnatcatcher,Ovenbird,Eastern Wood-Pewee
+268,PRWI-0051,PRWI,38.61638902,-77.42640083,Red-eyed Vireo,Ovenbird,Wood Thrush,Acadian Flycatcher,Eastern Tufted Titmouse
+269,PRWI-0053,PRWI,38.61650793,-77.42066264,Red-eyed Vireo,Acadian Flycatcher,Ovenbird,Wood Thrush,Eastern Tufted Titmouse
+270,PRWI-0055,PRWI,38.61662657,-77.41492441,Red-eyed Vireo,Acadian Flycatcher,Eastern Wood-Pewee,Scarlet Tanager,Wood Thrush
+271,PRWI-0060,PRWI,38.61692193,-77.40057869,Acadian Flycatcher,Red-eyed Vireo,American Crow,Ovenbird,Wood Thrush
+272,PRWI-0062,PRWI,38.61703958,-77.39484034,Red-eyed Vireo,Acadian Flycatcher,Blue-gray Gnatcatcher,Eastern Tufted Titmouse,Carolina Wren
+273,PRWI-0064,PRWI,38.61407849,-77.42919396,Wood Thrush,Red-eyed Vireo,Eastern Wood-Pewee,Acadian Flycatcher,American Robin
+274,PRWI-0069,PRWI,38.61437559,-77.41484889,Red-eyed Vireo,Ovenbird,Eastern Tufted Titmouse,Eastern Wood-Pewee,Acadian Flycatcher
+275,PRWI-0075,PRWI,38.61472978,-77.39763454,Red-eyed Vireo,Acadian Flycatcher,Eastern Tufted Titmouse,Ovenbird,Blue-gray Gnatcatcher
+276,PRWI-0079,PRWI,38.61188709,-77.4262491,Red-eyed Vireo,Wood Thrush,Ovenbird,Acadian Flycatcher,Blue-gray Gnatcatcher
+277,PRWI-0080,PRWI,38.61194657,-77.42338018,Red-eyed Vireo,Ovenbird,Blue-gray Gnatcatcher,Acadian Flycatcher,Eastern Tufted Titmouse
+278,PRWI-0082,PRWI,38.61206533,-77.41764233,Red-eyed Vireo,Ovenbird,Acadian Flycatcher,Eastern Wood-Pewee,Wood Thrush
+279,PRWI-0085,PRWI,38.61224294,-77.40903548,Red-eyed Vireo,Acadian Flycatcher,Ovenbird,Wood Thrush,Eastern Tufted Titmouse
+280,PRWI-0090,PRWI,38.61253755,-77.39469058,Red-eyed Vireo,Acadian Flycatcher,Wood Thrush,American Crow,Eastern Tufted Titmouse
+281,PRWI-0093,PRWI,38.61271347,-77.38608353,Red-eyed Vireo,American Robin,American Goldfinch,Northern Cardinal,Eastern Tufted Titmouse
+282,PRWI-0096,PRWI,38.60975501,-77.42043558,Red-eyed Vireo,Eastern Tufted Titmouse,Ovenbird,Acadian Flycatcher,Blue-gray Gnatcatcher
+283,PRWI-0097,PRWI,38.60981435,-77.41756674,Red-eyed Vireo,Ovenbird,Eastern Tufted Titmouse,Eastern Wood-Pewee,Blue-gray Gnatcatcher
+284,PRWI-0120,PRWI,38.60774095,-77.40888486,Red-eyed Vireo,Hooded Warbler,Eastern Tufted Titmouse,Blue-gray Gnatcatcher,Northern Cardinal
+285,PRWI-0124,PRWI,38.60797674,-77.39740966,Hooded Warbler,Red-eyed Vireo,Acadian Flycatcher,Eastern Tufted Titmouse,Eastern Wood-Pewee
+286,PRWI-0125,PRWI,38.60803551,-77.39454085,Red-eyed Vireo,Acadian Flycatcher,Ovenbird,Eastern Tufted Titmouse,Blue-gray Gnatcatcher
+287,PRWI-0129,PRWI,38.6082699,-77.38306549,Red-eyed Vireo,Acadian Flycatcher,Wood Thrush,Eastern Wood-Pewee,Ovenbird
+288,PRWI-0132,PRWI,38.60844495,-77.37445888,Red-eyed Vireo,Ovenbird,Wood Thrush,Acadian Flycatcher,Eastern Wood-Pewee
+289,PRWI-0143,PRWI,38.60560798,-77.40307216,Red-eyed Vireo,Ovenbird,Acadian Flycatcher,Eastern Tufted Titmouse,Hooded Warbler
+290,PRWI-0144,PRWI,38.60566689,-77.40020344,Red-eyed Vireo,Acadian Flycatcher,Eastern Tufted Titmouse,Ovenbird,Eastern Wood-Pewee
+291,PRWI-0145,PRWI,38.60572573,-77.39733472,Red-eyed Vireo,Ovenbird,Acadian Flycatcher,Eastern Tufted Titmouse,Eastern Wood-Pewee
+292,PRWI-0173,PRWI,38.60382623,-77.38004782,Red-eyed Vireo,Wood Thrush,Ovenbird,Northern Parula,Eastern Tufted Titmouse
+293,PRWI-0175,PRWI,38.60394284,-77.37431043,Wood Thrush,Red-eyed Vireo,Acadian Flycatcher,Eastern Tufted Titmouse,Ovenbird
+294,PRWI-0181,PRWI,38.60434877,-77.35422931,Red-eyed Vireo,Blue-gray Gnatcatcher,Pine Warbler,Acadian Flycatcher,American Robin
+295,PRWI-0186,PRWI,38.60086967,-77.41439599,Eastern Wood-Pewee,Red-eyed Vireo,Blue-gray Gnatcatcher,Mourning Dove,American Robin
+296,PRWI-0189,PRWI,38.601047,-77.40579046,Red-eyed Vireo,Ovenbird,Acadian Flycatcher,Eastern Wood-Pewee,Eastern Tufted Titmouse
+297,PRWI-0196,PRWI,38.6014583,-77.38571061,Red-eyed Vireo,Acadian Flycatcher,Wood Thrush,Eastern Wood-Pewee,Scarlet Tanager
+298,PRWI-0199,PRWI,38.60163352,-77.37710483,Red-eyed Vireo,Wood Thrush,Acadian Flycatcher,Eastern Tufted Titmouse,Scarlet Tanager
+299,PRWI-0206,PRWI,38.60203991,-77.35702439,Wood Thrush,Red-eyed Vireo,Acadian Flycatcher,American Robin,Eastern Wood-Pewee
+300,PRWI-0220,PRWI,38.59903143,-77.39424148,Red-eyed Vireo,Eastern Wood-Pewee,Ovenbird,Eastern Tufted Titmouse,Blue-gray Gnatcatcher
+301,PRWI-0223,PRWI,38.59920727,-77.38563605,Red-eyed Vireo,Acadian Flycatcher,Ovenbird,Eastern Wood-Pewee,Eastern Tufted Titmouse
+302,PRWI-0227,PRWI,38.59944073,-77.37416202,Red-eyed Vireo,Ovenbird,Acadian Flycatcher,Scarlet Tanager,Eastern Wood-Pewee
+303,PRWI-0233,PRWI,38.59978883,-77.35695073,Red-eyed Vireo,Wood Thrush,Eastern Wood-Pewee,Acadian Flycatcher,Blue Jay
+304,PRWI-0238,PRWI,38.60013439,-77.33973914,Northern Cardinal,Carolina Wren,Wood Thrush,Blue Jay,Carolina Chickadee
+305,PRWI-0253,PRWI,38.5970147,-77.38269309,Red-eyed Vireo,Ovenbird,Eastern Tufted Titmouse,Scarlet Tanager,Blue-gray Gnatcatcher
+306,PRWI-0268,PRWI,38.59788328,-77.33966602,Red-eyed Vireo,Eastern Tufted Titmouse,Northern Cardinal,Carolina Chickadee,Carolina Wren
+307,PRWI-0273,PRWI,38.59405746,-77.41703788,Red-eyed Vireo,Hooded Warbler,Blue-gray Gnatcatcher,Eastern Tufted Titmouse,Acadian Flycatcher
+308,PRWI-0276,PRWI,38.59423496,-77.40843318,Eastern Towhee,Mourning Dove,Blue-gray Gnatcatcher,Eastern Wood-Pewee,American Crow
+309,PRWI-0277,PRWI,38.59429398,-77.40556493,Red-eyed Vireo,Hooded Warbler,Ovenbird,Acadian Flycatcher,Eastern Wood-Pewee
+310,PRWI-0282,PRWI,38.59458805,-77.39122356,Red-eyed Vireo,Acadian Flycatcher,Ovenbird,Eastern Tufted Titmouse,Scarlet Tanager
+311,PRWI-0287,PRWI,38.59488037,-77.37688198,Red-eyed Vireo,Ovenbird,Eastern Wood-Pewee,Eastern Tufted Titmouse,Acadian Flycatcher
+312,PRWI-0289,PRWI,38.5949968,-77.37114529,Ovenbird,Red-eyed Vireo,Eastern Wood-Pewee,Wood Thrush,Acadian Flycatcher
+313,PRWI-0298,PRWI,38.59551728,-77.34532978,Wood Thrush,Acadian Flycatcher,American Robin,Red-eyed Vireo,Eastern Tufted Titmouse
+314,PRWI-0313,PRWI,38.59233702,-77.39114885,Red-eyed Vireo,Acadian Flycatcher,Eastern Tufted Titmouse,Ovenbird,Blue-gray Gnatcatcher
+315,PRWI-0321,PRWI,38.59280385,-77.36820293,Eastern Tufted Titmouse,Red-eyed Vireo,Acadian Flycatcher,Ovenbird,Wood Thrush
+316,PRWI-0325,PRWI,38.59303557,-77.35672978,Wood Thrush,Red-eyed Vireo,Eastern Tufted Titmouse,Acadian Flycatcher,Eastern Wood-Pewee
+317,PRWI-0333,PRWI,38.58961471,-77.4140188,Red-eyed Vireo,Acadian Flycatcher,Ovenbird,Blue-gray Gnatcatcher,Eastern Wood-Pewee
+318,PRWI-0334,PRWI,38.58967387,-77.41115075,Red-eyed Vireo,Eastern Wood-Pewee,Eastern Tufted Titmouse,Acadian Flycatcher,Blue-gray Gnatcatcher
+319,PRWI-0338,PRWI,38.58990979,-77.39967845,Red-eyed Vireo,Ovenbird,Blue-gray Gnatcatcher,Hooded Warbler,Pine Warbler
+320,PRWI-0349,PRWI,38.59055278,-77.36812894,Ovenbird,Red-eyed Vireo,Acadian Flycatcher,Wood Thrush,Eastern Tufted Titmouse
+321,PRWI-0353,PRWI,38.59078449,-77.35665615,Wood Thrush,Red-eyed Vireo,Eastern Tufted Titmouse,Blue Jay,Chimney Swift
+322,PRWI-0355,PRWI,38.59089992,-77.3509197,Wood Thrush,Acadian Flycatcher,Red-eyed Vireo,Eastern Tufted Titmouse,Eastern Wood-Pewee
+323,PRWI-0359,PRWI,38.58712641,-77.42541516,Ovenbird,Eastern Tufted Titmouse,Acadian Flycatcher,Red-eyed Vireo,Blue-gray Gnatcatcher
+324,PRWI-0360,PRWI,38.58718584,-77.42254723,Red-eyed Vireo,Ovenbird,Eastern Tufted Titmouse,Blue-gray Gnatcatcher,Eastern Wood-Pewee
+325,PRWI-0366,PRWI,38.58754096,-77.40533947,Red-eyed Vireo,Eastern Wood-Pewee,Acadian Flycatcher,Ovenbird,Blue-gray Gnatcatcher
+326,PRWI-0369,PRWI,38.58771757,-77.39673548,Ovenbird,Red-eyed Vireo,Acadian Flycatcher,American Crow,Eastern Tufted Titmouse
+327,PRWI-0377,PRWI,38.58818544,-77.37379113,Acadian Flycatcher,Red-eyed Vireo,Ovenbird,Blue-gray Gnatcatcher,Wood Thrush
+328,PRWI-0378,PRWI,38.58824361,-77.37092305,Red-eyed Vireo,Acadian Flycatcher,Ovenbird,Blue-gray Gnatcatcher,Eastern Tufted Titmouse
+329,PRWI-0379,PRWI,38.58830171,-77.36805496,Hooded Warbler,Red-eyed Vireo,Eastern Tufted Titmouse,Blue-gray Gnatcatcher,American Crow
+330,PRWI-0381,PRWI,38.58841769,-77.36231876,Red-eyed Vireo,Blue-gray Gnatcatcher,Ovenbird,Scarlet Tanager,Eastern Wood-Pewee
+331,PRWI-0392,PRWI,38.58499422,-77.41960371,Red-eyed Vireo,Blue-gray Gnatcatcher,Ovenbird,Acadian Flycatcher,Eastern Tufted Titmouse
+332,PRWI-0395,PRWI,38.58517187,-77.41100011,Red-eyed Vireo,Ovenbird,Acadian Flycatcher,Blue-gray Gnatcatcher,Scarlet Tanager
+333,PRWI-0398,PRWI,38.58534889,-77.40239644,Red-eyed Vireo,American Crow,Eastern Wood-Pewee,Ovenbird,Acadian Flycatcher
+334,PRWI-0399,PRWI,38.58540775,-77.39952853,Red-eyed Vireo,Eastern Wood-Pewee,Ovenbird,Acadian Flycatcher,Eastern Tufted Titmouse
+335,PRWI-0401,PRWI,38.58552527,-77.39379269,Red-eyed Vireo,Ovenbird,Acadian Flycatcher,Eastern Wood-Pewee,Wood Thrush
+336,PRWI-0409,PRWI,38.58599254,-77.37084899,Red-eyed Vireo,Ovenbird,Carolina Chickadee,Eastern Tufted Titmouse,Eastern Wood-Pewee
+337,PRWI-0417,PRWI,38.58645532,-77.34790476,Eastern Tufted Titmouse,Red-eyed Vireo,Wood Thrush,Acadian Flycatcher,Eastern Wood-Pewee
+338,PRWI-0431,PRWI,38.58309787,-77.4023214,Red-eyed Vireo,Eastern Tufted Titmouse,Acadian Flycatcher,Ovenbird,Eastern Wood-Pewee
+339,PRWI-0436,PRWI,38.58339147,-77.38798222,Ovenbird,Wood Thrush,Red-eyed Vireo,Acadian Flycatcher,Eastern Wood-Pewee
+340,PRWI-0441,PRWI,38.58368332,-77.37364283,Red-eyed Vireo,Eastern Tufted Titmouse,American Robin,Eastern Wood-Pewee,Wood Thrush
+341,PRWI-0446,PRWI,38.58397341,-77.35930324,Red-eyed Vireo,Acadian Flycatcher,Eastern Wood-Pewee,Wood Thrush,Eastern Tufted Titmouse
+342,PRWI-0447,PRWI,38.58403122,-77.3564353,Red-eyed Vireo,Acadian Flycatcher,Wood Thrush,Eastern Wood-Pewee,Scarlet Tanager
+343,PRWI-0463,PRWI,38.58090571,-77.39937864,Red-eyed Vireo,Ovenbird,Eastern Wood-Pewee,Hooded Warbler,Eastern Tufted Titmouse
+344,PRWI-0466,PRWI,38.58108186,-77.3907754,Red-eyed Vireo,Ovenbird,Wood Thrush,Acadian Flycatcher,Eastern Wood-Pewee
+345,PRWI-0475,PRWI,38.58160651,-77.36496524,Red-eyed Vireo,Eastern Wood-Pewee,Wood Thrush,Acadian Flycatcher,Blue-gray Gnatcatcher
+346,PRWI-0477,PRWI,38.58172232,-77.35922955,Red-eyed Vireo,Acadian Flycatcher,Wood Thrush,Eastern Tufted Titmouse,Eastern Wood-Pewee
+347,PRWI-0480,PRWI,38.58201064,-77.3448902,Red-eyed Vireo,Acadian Flycatcher,Wood Thrush,Eastern Tufted Titmouse,American Robin
+348,PRWI-0491,PRWI,38.57847792,-77.4079066,Red-eyed Vireo,Acadian Flycatcher,Ovenbird,Hooded Warbler,Scarlet Tanager
+349,PRWI-0504,PRWI,38.57923934,-77.37062685,Red-eyed Vireo,Wood Thrush,Acadian Flycatcher,American Robin,Blue-gray Gnatcatcher
+350,PRWI-0505,PRWI,38.57929742,-77.36775912,Wood Thrush,Acadian Flycatcher,Red-eyed Vireo,Blue-gray Gnatcatcher,Scarlet Tanager
+351,PRWI-0508,PRWI,38.57947124,-77.35915587,Red-eyed Vireo,Acadian Flycatcher,Eastern Wood-Pewee,Scarlet Tanager,Eastern Tufted Titmouse
+352,PRWI-0512,PRWI,38.5799889,-77.33334569,Red-eyed Vireo,Wood Thrush,American Robin,Ovenbird,Eastern Wood-Pewee
+353,PRWI-0516,PRWI,38.57610873,-77.41356646,Blue-gray Gnatcatcher,Ovenbird,Carolina Chickadee,Chipping Sparrow,Acadian Flycatcher
+354,PRWI-0530,PRWI,38.57693013,-77.37342045,Red-eyed Vireo,Wood Thrush,Acadian Flycatcher,Scarlet Tanager,White-breasted Nuthatch
+355,PRWI-0537,PRWI,38.57733567,-77.35334684,Red-eyed Vireo,Ovenbird,Eastern Tufted Titmouse,Carolina Wren,Northern Parula
+356,PRWI-0539,PRWI,38.5774509,-77.34761145,Red-eyed Vireo,Acadian Flycatcher,Blue-gray Gnatcatcher,Eastern Tufted Titmouse,Eastern Wood-Pewee
+357,PRWI-0546,PRWI,38.57391685,-77.41062367,Red-eyed Vireo,Acadian Flycatcher,Ovenbird,Blue-gray Gnatcatcher,Eastern Tufted Titmouse
+358,PRWI-0555,PRWI,38.5744458,-77.38481644,Red-eyed Vireo,Acadian Flycatcher,Eastern Tufted Titmouse,Hooded Warbler,Eastern Wood-Pewee
+359,PRWI-0575,PRWI,38.57178387,-77.4048137,Red-eyed Vireo,Acadian Flycatcher,Ovenbird,Blue-gray Gnatcatcher,Eastern Tufted Titmouse
+360,PRWI-0601,PRWI,38.56941484,-77.41047315,Red-eyed Vireo,Ovenbird,Acadian Flycatcher,Eastern Wood-Pewee,Eastern Tufted Titmouse
+361,PRWI-0608,PRWI,38.56988522,-77.38753485,Red-eyed Vireo,Acadian Flycatcher,Ovenbird,Blue-gray Gnatcatcher,Eastern Tufted Titmouse
+362,PRWI-0620,PRWI,38.57058237,-77.35312641,Red-eyed Vireo,Acadian Flycatcher,Eastern Wood-Pewee,Wood Thrush,Eastern Tufted Titmouse
+363,PRWI-0621,PRWI,38.57064001,-77.35025898,Red-eyed Vireo,American Crow,Eastern Tufted Titmouse,Acadian Flycatcher,Northern Parula
+364,PRWI-0625,PRWI,38.5669863,-77.41899936,Ovenbird,Hooded Warbler,Red-eyed Vireo,Eastern Wood-Pewee,Acadian Flycatcher
+365,PRWI-0641,PRWI,38.56804204,-77.3673895,Acadian Flycatcher,Red-eyed Vireo,Northern Parula,Eastern Tufted Titmouse,Blue-gray Gnatcatcher
+366,PRWI-0648,PRWI,38.56844646,-77.34731827,Red-eyed Vireo,Blue-gray Gnatcatcher,Eastern Tufted Titmouse,Acadian Flycatcher,Ovenbird
+367,PRWI-0651,PRWI,38.56467599,-77.42179089,Acadian Flycatcher,Ovenbird,Red-eyed Vireo,Hooded Warbler,Wood Thrush
+368,PRWI-0653,PRWI,38.56479454,-77.41605679,Ovenbird,Red-eyed Vireo,Eastern Tufted Titmouse,Eastern Wood-Pewee,Hooded Warbler
+369,PRWI-0656,PRWI,38.56497186,-77.40745558,Ovenbird,Red-eyed Vireo,Eastern Wood-Pewee,Blue-gray Gnatcatcher,Hooded Warbler
+370,PRWI-0660,PRWI,38.56526597,-77.39312006,Red-eyed Vireo,American Crow,Acadian Flycatcher,American Goldfinch,Eastern Tufted Titmouse
+371,PRWI-0669,PRWI,38.56590685,-77.36158118,Acadian Flycatcher,Red-eyed Vireo,Blue-gray Gnatcatcher,Northern Parula,Wood Thrush
+372,PRWI-0689,PRWI,38.56330727,-77.37871008,Red-eyed Vireo,American Crow,Acadian Flycatcher,Eastern Wood-Pewee,Eastern Tufted Titmouse
+373,PRWI-0691,PRWI,38.56342371,-77.37297591,Red-eyed Vireo,Acadian Flycatcher,Wood Thrush,Eastern Wood-Pewee,Blue Jay
+374,PRWI-0695,PRWI,38.56365576,-77.36150747,Acadian Flycatcher,Red-eyed Vireo,Wood Thrush,Eastern Tufted Titmouse,American Robin
+375,PRWI-0696,PRWI,38.5637136,-77.35864034,Red-eyed Vireo,Blue-gray Gnatcatcher,Eastern Wood-Pewee,American Robin,Wood Thrush
+376,PRWI-0712,PRWI,38.56064648,-77.39870456,Red-eyed Vireo,Ovenbird,Acadian Flycatcher,American Crow,Eastern Wood-Pewee
+377,PRWI-0721,PRWI,38.56140467,-77.36143376,Wood Thrush,Ovenbird,Red-eyed Vireo,Acadian Flycatcher,American Robin
+378,PRWI-0722,PRWI,38.5614625,-77.35856672,Red-eyed Vireo,Wood Thrush,Acadian Flycatcher,Blue-gray Gnatcatcher,Eastern Wood-Pewee
+379,PRWI-0728,PRWI,38.56180802,-77.3413643,Red-eyed Vireo,Acadian Flycatcher,Eastern Wood-Pewee,Ovenbird,Scarlet Tanager
+380,PRWI-0738,PRWI,38.55845418,-77.39576285,Red-eyed Vireo,Acadian Flycatcher,Ovenbird,Wood Thrush,American Crow
+381,PRWI-0741,PRWI,38.55897968,-77.36996087,Red-eyed Vireo,Ovenbird,Acadian Flycatcher,Eastern Wood-Pewee,Blue-gray Gnatcatcher
+382,PRWI-0742,PRWI,38.55903771,-77.36709395,Ovenbird,Red-eyed Vireo,Eastern Wood-Pewee,Wood Thrush,Acadian Flycatcher
+383,PRWI-0744,PRWI,38.55915358,-77.36136007,Wood Thrush,Red-eyed Vireo,Eastern Wood-Pewee,Ovenbird,Eastern Tufted Titmouse
+384,PRWI-0750,PRWI,38.55949949,-77.34415823,Red-eyed Vireo,Eastern Wood-Pewee,Ovenbird,Wood Thrush,American Robin
+385,PRWI-0751,PRWI,38.55955689,-77.34129123,Eastern Tufted Titmouse,Acadian Flycatcher,American Robin,Eastern Wood-Pewee,Ovenbird
+386,PRWI-0759,PRWI,38.55608561,-77.4014216,Acadian Flycatcher,Red-eyed Vireo,Wood Thrush,Ovenbird,Eastern Wood-Pewee
+387,PRWI-0779,PRWI,38.55488224,-77.34974555,Wood Thrush,Blue Jay,Indigo Bunting,Northern Cardinal,Ovenbird
+388,PRWI-0783,PRWI,38.55122931,-77.41847099,Hooded Warbler,Red-eyed Vireo,Ovenbird,Blue-gray Gnatcatcher,Eastern Tufted Titmouse
+389,PRWI-0789,PRWI,38.55158355,-77.40127175,Acadian Flycatcher,Wood Thrush,Red-eyed Vireo,Ovenbird,Northern Parula
+390,PRWI-0796,PRWI,38.54927366,-77.40406331,Red-eyed Vireo,Acadian Flycatcher,Ovenbird,Wood Thrush,Blue-gray Gnatcatcher
+391,PRWI-0798,PRWI,38.54939131,-77.39833036,Red-eyed Vireo,Wood Thrush,Acadian Flycatcher,Eastern Tufted Titmouse,Blue-gray Gnatcatcher
+392,PRWI-0800,PRWI,38.54950868,-77.39259737,Red-eyed Vireo,Acadian Flycatcher,Eastern Wood-Pewee,Blue-gray Gnatcatcher,Eastern Tufted Titmouse
+393,ROCR-0004,ROCR,38.98862539,-77.04365819,American Robin,Northern Cardinal,Gray Catbird,Song Sparrow,Red-bellied Woodpecker
+394,ROCR-0010,ROCR,38.98402135,-77.0492979,American Robin,Acadian Flycatcher,Red-bellied Woodpecker,Wood Thrush,Red-eyed Vireo
+395,ROCR-0027,ROCR,38.97731778,-77.04621879,Ovenbird,Northern Cardinal,Blue-gray Gnatcatcher,Red-eyed Vireo,Acadian Flycatcher
+396,ROCR-0045,ROCR,38.97056355,-77.04602436,American Robin,Red-eyed Vireo,Acadian Flycatcher,Blue-gray Gnatcatcher,Eastern Tufted Titmouse
+397,ROCR-0055,ROCR,38.96601011,-77.04877866,American Robin,Red-eyed Vireo,Acadian Flycatcher,Wood Thrush,Northern Cardinal
+398,ROCR-0079,ROCR,38.95664829,-77.06870365,American Robin,Northern Cardinal,Song Sparrow,Gray Catbird,American Crow
+399,ROCR-0092,ROCR,38.95475305,-77.04845436,Red-bellied Woodpecker,American Robin,Wood Thrush,Blue-gray Gnatcatcher,Northern Cardinal
+400,ROCR-0094,ROCR,38.95485416,-77.0426875,American Robin,Acadian Flycatcher,Blue-gray Gnatcatcher,Common Grackle,Downy Woodpecker
+401,ROCR-0111,ROCR,38.95035132,-77.04255819,American Robin,Wood Thrush,Northern Cardinal,Red-bellied Woodpecker,Carolina Wren
+402,ROCR-0121,ROCR,38.94549344,-77.06261028,House Sparrow,Eastern Tufted Titmouse,American Robin,American Crow,Northern Cardinal
+403,ROCR-0145,ROCR,38.93684276,-77.04217046,American Robin,Blue Jay,Wood Thrush,Eastern Tufted Titmouse,Eastern Wood-Pewee
+404,ROCR-0172,ROCR,38.91806697,-77.08488284,Northern Cardinal,American Robin,Wood Thrush,Gray Catbird,Veery
+405,ROCR-0180,ROCR,38.91622518,-77.06176243,Northern Cardinal,American Robin,Wood Thrush,Gray Catbird,Eastern Towhee
+406,ROCR-0186,ROCR,38.91187476,-77.05298708,American Robin,Gray Catbird,American Crow,Northern Cardinal,Chimney Swift
+407,WOTR-0001,WOTR,38.9416954,-77.26728609,American Robin,Eastern Tufted Titmouse,American Crow,Carolina Wren,Northern Cardinal
+408,WOTR-0003,WOTR,38.93950028,-77.26433197,Eastern Tufted Titmouse,Carolina Wren,Northern Cardinal,American Robin,Blue Jay
+409,WOTR-0004,WOTR,38.93955619,-77.26144957,Acadian Flycatcher,Eastern Tufted Titmouse,Northern Cardinal,White-breasted Nuthatch,Blue-gray Gnatcatcher
+410,WOTR-0007,WOTR,38.93730508,-77.26137803,Eastern Tufted Titmouse,House Wren,Acadian Flycatcher,American Robin,Carolina Wren
+411,WOTR-0008,WOTR,38.93499808,-77.26418872,Northern Cardinal,Eastern Tufted Titmouse,Carolina Chickadee,Carolina Wren,American Robin
+412,WOTR-0009,WOTR,38.93505398,-77.2613065,Downy Woodpecker,Acadian Flycatcher,American Robin,Carolina Wren,Blue Jay
