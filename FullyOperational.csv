@@ -1,46 +1,46 @@
-FountainID,Name,Location,Operational,NumberofFountains,Type,Fountain1Fxn,Fountain2Fxn,OverallCondition,ApproxInstallDate,Notes,TargetRepairDate,ResNumber,Lat,Lng
-DF_FDR_06,FDR Memorial,"Ohio Dr., at Inlet Bridge (FDR side)",Fully Operational,2,MDF,Works,Works,Fair,0,Up for replacement.  , ,332,38.88048321,-77.04068811
-DF_FDRA_07,FDR Athletic Fields,On Ohio Drive near Ball Field 3,Fully Operational,1,Haws,Works,,Fair,0,As of 09/06/2016 takes a while for the water to come out., ,332,38.88105482,-77.04257949
-DF_FDRA_09,FDR Athletic Fields,On Ohio Drive near ball field 5,Fully Operational,1,Haws,Works,,Fair,0, , ,332,38.88226205,-77.04428601
-DF_MLK_12,MLK Memorial,MLK Memorial in front of restrooms,Fully Operational,2,MDF,Works,Works,Good,0, , ,332,38.88613177,-77.04522897
-DF_MLK_13,MLK Memorial,MLK Memorial in front of restrooms,Fully Operational,2,MDF,Works,Works,Good,0, , ,332,38.88613225,-77.04521286
-DF_FDR_16,FDR Memorial,"West Basin Drive, Permit Parking X",Fully Operational,2,Haws,Works,Works,Good,2015, , ,332,38.88498278,-77.04508324
-DF_LINC_17,Lincoln Memorial Circle,Lincoln Memorial Circle,Fully Operational,2,MDF,Works,Works,Good,0,Leaking at base of short fountain.  Rusty access panel and rusty arm., ,332,38.89036412,-77.04975666
-DF_KWM_18,By Korean War Memorial Info Kiosk,Near Korean Memorial Kiosk,Fully Operational,2,MDF,Works,Works,Good,2014,"If ever replace, replace with combo drinking fountain/water bottle fill station.", ,332,38.88837612,-77.04908658
-DF_KWM_19,Korean War Memorial near Daniel French Dr SW,Korean War Memorial near Daniel French Dr SW,Fully Operational,2,MDF,Works,Works,Good,2014, , ,332,38.8881622,-77.04853271
-DF_DCWM_21,DC War Memorial ,South of DC War Memorial on Independence Drive,Fully Operational,2,MDF,Works,Works,Good,2014,"As of 09//08/2016, Short drain is not draining properly.", ,332,38.88711832,-77.04326987
-DF_ST_23,Sylvan Theater near WAMO walkway,Sylvan Theater near WAMO walkway,Fully Operational,2,MDF,Works,Works,Good,0,"As of 09/08/2016, both sides work, but behind cones/flagging", ,2,38.88825075,-77.03485314
-DF_WAMO_24,WAMO/WWII south near 17th,WAMO/WWII south near 17th,Fully Operational,2,MDF,Works,Works,Good,,"As of 09/08/2016, access panel door not fully shut", ,2,38.88890037,-77.03931245
-DF_WAMO_25,WAMO,WAMO/WWII north near 17th,Fully Operational,2,MDF,Works,Works,Good,2011,"As of 09/08/2016, Leaking from access panel (algae and mold underneath).  Grafitti on fountain", ,2,38.88994624,-77.03930858
-DF_WAMO_26,WAMO,"WAMO, Constitution and 17th",Fully Operational,2,MDF,Works,Works,Fair,0, , ,2,38.89190461,-77.0392439
-DF_GAFG_28,German American Friendship Gardens east,Friendship Gardens east,Fully Operational,2,MDF,Works,Works,Good,2011, , ,2,38.89185883,-77.03585139
-DF_WWII_29,WWII ,"WWII North, north Elm Walk on Contemplation Garden Side",Fully Operational,2,MDF,Works,Works,Good,2012,"As of 09/08/2016, black paint chipping off", ,332,38.89010538,-77.04038352
-DF_WWII_30,WWII,WWII near WWII kiosk,Fully Operational,2,MDF,Works,Works,Good,2012, , ,332,38.88832198,-77.04083496
-DF_WAMO_31,15th and Jefferson refreshment kiosk,15th and Jefferson refreshment kiosk,Fully Operational,2,MDF,Works,Works,Good,0,"Overall graffiti, bottom access panel coming off, when up for replacement replace with combo drinking fountain/water bottle fill station", ,2,38.88859871,-77.0325895
-DF_WAMO_32,"WAMO, near 15th and Independence","WAMO, near 15th and Independence",Fully Operational,2,MDF,Works,Works,Good,0,, ,2,38.88858233,-77.03346597
-DF_VVM_34,Vietnam Veterans Memorial,North Vietnam near Constitution,Fully Operational,1,Haws,Works,,Poor,0,Up for replacement, ,332,38.89156308,-77.047278
-DF_MALL_35,Jefferson Memorial near refreshment kiosk,Jefferson Memorial near refreshment kiosk,Fully Operational,2,MDF,Works,Works,Good,2012, As of 09/08/2016 looks like leaking from arm/access panel.  Replace with drinking fountain/bottle fill combo., ,332,38.87999006,-77.03734775
-DF_VC_36,Volleyball courts,Volleyball Courts Parkway Drive,Fully Operational,2, ,Works,Works,Good,2015,Both take a while to emit water , ,332,38.89106758,-77.05361343
-DF_EP_37,East Potomac Tennis Courts,Tennis Courts,Fully Operational,2,Other,Works,Works,Good,0,Needs cleaned, ,333,38.87894496,-77.03113315
-DF_EP_38,Buckeye Drive Parking Lot/Tennis Courts,Buckeye Drive Parking Lot/Tennis Courts,Fully Operational,2,Other,Works,Works,Good,0,Needs cleaned, ,333,38.87840792,-77.03038283
-DF_MALL_39,The Mall,"Jefferson Dr SW & 13th St, across from USDA",Fully Operational,2,MDF,Works,Works,Good,0, , ,003B,38.8887187,-77.0300635
-DF_MALL_41,The Mall,Jefferson Dr and Air and Space Musem,Fully Operational,2,MDF,Works,Works,Fair,0,"Catch basin on tall one loose.Short one dripping out of base of arm, algae and mold below it.Rusty, needs painted. Replace w/ waterbottle fill combo", ,5,38.88887434,-77.01978917
-DF_MALL_43,The Mall,Madison and Museum of Natural History,Fully Operational,2,MDF,Works,Works,Good,0,"Rusty and grafitti, needs painted.  Replace with water bottle fill combo. ", ,3,38.8904249,-77.02583536
-DF_WAMO_44,WAMO,WAMO near Ticket booth/visitor center on 15th,Fully Operational,2,MDF,Works,Works,Good,0,"If replace, replace with water bottle fill combo", ,2,38.88962317,-77.03322779
-DF_MALL_46,The Mall,"15th and Madison, across from African American Museum",Fully Operational,2,MDF,Works,Works,Good,0,, ,2,38.89043382,-77.03348956
-DF_WWII_47,WWII,WWII Restrooms,Fully Operational,2,MDF,Works,Works,Good,2011,Takes about 10 seconds for both the tall and short to emit water once you press the button., ,332,38.88810423,-77.04138112
-DF_WWII_48,WWII,WWII South elm walk,Fully Operational,2,MDF,Works,Works,Good,2012,Needs painted.  Not sure if hte handicap/short fountain is facing the correct way., ,332,38.88873135,-77.04029254
-DF_WWI_49,DC War Memorial,DC WWI Memorial Comfort Station,Fully Operational,2,MDF,Works,Works,Good,2014, , ,332,38.88804977,-77.04273065
-DF_WWI_50,DC War Memorial/D1 Stables,Between D1 stables and DC WWI Memorial Comfort Station (Ash woods?),Fully Operational,2,MDF,Works,Works,Good,2011, , ,332,38.88814181,-77.04445
-DF_UP_52,Japanese Maerican Patriotism Memorial,"Japanese American Patriotism Memorial, D St/Louisiana & New Jersey NW",Fully Operational,2,MDF,Works,Works,Good,0,Is this even our property? Needs painted.  Both have a lot of pressure and shoot over the catch basin. , ,728,38.89465409,-77.00994354
-DF_KWM_57,Korean War Memorial,"Korean War Memorial, Reflecting Pool",Fully Operational,2,MDF,Works,Works,Good,2013,"Tall fountain works, but is close to the lip of the fountain.  ", ,332,38.88878153,-77.0481658
-DF_UP_60,Triangle,Florida and 1st St NW,Fully Operational,1,Haws,Works,,Fair,0,Needs painted.  Graffiti.  , ,276A,38.91251294,-77.01280375
-DF_UP_64,Logan Circle East Triangle,"Logan Circle east Triangle, 12th & P St NW",Fully Operational,2,MDF,Works,Works,Good,2012,Maybe some paint on the arm, ,154,38.90985741,-77.0281998
-DF_UP_65,Logan Circle,"Logan Circle, Rhode Island & Vermont NW",Fully Operational,2,MDF,Works,Works,Good,0,"Graffiti and stickers, maybe some paint", ,153,38.90984844,-77.02958859
-DF_UP_68,McPherson Square,"McPherson Square, northwest. K st 15th NW",Fully Operational,2,MDF,Works,Works,Good,0,Needs cleaned , ,11,38.90213734,-77.03419883
-DF_UP_69,McPherson Square,"McPherson Square, southeast. K St 15th NW",Fully Operational,2,MDF,Works,Works,Good,0,Needs cleaned, ,11,38.90178933,-77.03404027
-DF_UP_72,Rawlins Park,"Rawlins Park, southeast.  E st between 18th and 19th NW",Fully Operational,2,MDF,Works,Works,Fair,0,Needs painted., ,13,38.89557021,-77.04197367
-DF_UP_74,Washington Circle,"Washington Circle, northeast.  PA & New Hampshire NW",Fully Operational,2,MDF,Works,Works,Fair,0, , ,26,38.90287762,-77.04999924
-DF_UP_75 ,Washington Circle,"Washington Circle, southwest. PA & New Hampshire NW",Fully Operational,2,MDF,Works,Works,Fair,0,Cloudy water for a while. Remove and replace,9/19/2016,26,38.90221231,-77.05029991
-DF_UP_77,Dupont Circle(southeast),"Dupont Circle, Mass and Connecticut NW",Fully Operational,2,MDF,Works,Works,Poor,,"Graffiti, tall basin needs fixed",,60,38.90929935,-77.04320157
-DF_UP_78,Dupont Circle (northeast),"Dupont Circle, Mass and Connecticut NW",Fully Operational,2,MDF,Works,Works,Poor,,"Graffiti, needs cleaned",,60,38.90998515,-77.0431779
+FountainID,Name,Location,Operational,NumberofFountains,Type,Fountain1Fxn,Fountain2Fxn,OverallCondition,ApproxInstallDate,Notes,TargetRepairDate,ResNumber,Lat,Lng,Image_
+DF_FDR_06,FDR Memorial,"Ohio Dr., at Inlet Bridge (FDR side)",Fully Operational,2,MDF,Works,Works,Fair,0,Up for replacement.  , ,332,38.88048321,-77.04068811,
+DF_FDRA_07,FDR Athletic Fields,On Ohio Drive near Ball Field 3,Fully Operational,1,Haws,Works,,Fair,0,As of 09/06/2016 takes a while for the water to come out., ,332,38.88105482,-77.04257949,
+DF_FDRA_09,FDR Athletic Fields,On Ohio Drive near ball field 5,Fully Operational,1,Haws,Works,,Fair,0, , ,332,38.88226205,-77.04428601,
+DF_MLK_12,MLK Memorial,MLK Memorial in front of restrooms,Fully Operational,2,MDF,Works,Works,Good,0, , ,332,38.88613177,-77.04522897,
+DF_MLK_13,MLK Memorial,MLK Memorial in front of restrooms,Fully Operational,2,MDF,Works,Works,Good,0, , ,332,38.88613225,-77.04521286,
+DF_FDR_16,FDR Memorial,"West Basin Drive, Permit Parking X",Fully Operational,2,Haws,Works,Works,Good,2015, , ,332,38.88498278,-77.04508324,
+DF_LINC_17,Lincoln Memorial Circle,Lincoln Memorial Circle,Fully Operational,2,MDF,Works,Works,Good,0,Leaking at base of short fountain.  Rusty access panel and rusty arm., ,332,38.89036412,-77.04975666,
+DF_KWM_18,By Korean War Memorial Info Kiosk,Near Korean Memorial Kiosk,Fully Operational,2,MDF,Works,Works,Good,2014,"If ever replace, replace with combo drinking fountain/water bottle fill station.", ,332,38.88837612,-77.04908658,
+DF_KWM_19,Korean War Memorial near Daniel French Dr SW,Korean War Memorial near Daniel French Dr SW,Fully Operational,2,MDF,Works,Works,Good,2014, , ,332,38.8881622,-77.04853271,
+DF_DCWM_21,DC War Memorial ,South of DC War Memorial on Independence Drive,Fully Operational,2,MDF,Works,Works,Good,2014,"As of 09/08/2016, Short drain is not draining properly.", ,332,38.88711832,-77.04326987,
+DF_ST_23,Sylvan Theater near WAMO walkway,Sylvan Theater near WAMO walkway,Fully Operational,2,MDF,Works,Works,Good,0,"As of 09/08/2016, both sides work, but behind cones/flagging", ,2,38.88825075,-77.03485314,
+DF_WAMO_24,WAMO/WWII south near 17th,WAMO/WWII south near 17th,Fully Operational,2,MDF,Works,Works,Good,,"As of 09/08/2016, access panel door not fully shut", ,2,38.88890037,-77.03931245,
+DF_WAMO_25,WAMO,WAMO/WWII north near 17th,Fully Operational,2,MDF,Works,Works,Good,2011,"As of 09/08/2016, Leaking from access panel (algae and mold underneath).  Graffiti on fountain", ,2,38.88994624,-77.03930858,
+DF_WAMO_26,WAMO,"WAMO, Constitution and 17th",Fully Operational,2,MDF,Works,Works,Fair,0, , ,2,38.89190461,-77.0392439,
+DF_GAFG_28,German American Friendship Gardens east,Friendship Gardens east,Fully Operational,2,MDF,Works,Works,Good,2011, , ,2,38.89185883,-77.03585139,
+DF_WWII_29,WWII ,"WWII North, north Elm Walk on Contemplation Garden Side",Fully Operational,2,MDF,Works,Works,Good,2012,"As of 09/08/2016, black paint chipping off", ,332,38.89010538,-77.04038352,
+DF_WWII_30,WWII,WWII near WWII kiosk,Fully Operational,2,MDF,Works,Works,Good,2012, , ,332,38.88832198,-77.04083496,
+DF_WAMO_31,15th and Jefferson refreshment kiosk,15th and Jefferson refreshment kiosk,Fully Operational,2,MDF,Works,Works,Good,0,"Overall graffiti, bottom access panel coming off, when up for replacement replace with combo drinking fountain/water bottle fill station", ,2,38.88859871,-77.0325895,
+DF_WAMO_32,"WAMO, near 15th and Independence","WAMO, near 15th and Independence",Fully Operational,2,MDF,Works,Works,Good,0,, ,2,38.88858233,-77.03346597,
+DF_VVM_34,Vietnam Veterans Memorial,North Vietnam near Constitution,Fully Operational,1,Haws,Works,,Poor,0,Up for replacement, ,332,38.89156308,-77.047278,
+DF_MALL_35,Jefferson Memorial near refreshment kiosk,Jefferson Memorial near refreshment kiosk,Fully Operational,2,MDF,Works,Works,Good,2012, As of 09/08/2016 looks like leaking from arm/access panel.  Replace with drinking fountain/bottle fill combo., ,332,38.87999006,-77.03734775,
+DF_VC_36,Volleyball courts,Volleyball Courts Parkway Drive,Fully Operational,2, ,Works,Works,Good,2015,Both take a while to emit water , ,332,38.89106758,-77.05361343,
+DF_EP_37,East Potomac Tennis Courts,Tennis Courts,Fully Operational,2,Other,Works,Works,Good,0,Needs cleaned, ,333,38.87894496,-77.03113315,
+DF_EP_38,Buckeye Drive Parking Lot/Tennis Courts,Buckeye Drive Parking Lot/Tennis Courts,Fully Operational,2,Other,Works,Works,Good,0,Needs cleaned, ,333,38.87840792,-77.03038283,
+DF_MALL_39,The Mall,"Jefferson Dr SW & 13th St, across from USDA",Fully Operational,2,MDF,Works,Works,Good,0, , ,003B,38.8887187,-77.0300635,
+DF_MALL_41,The Mall,Jefferson Dr and Air and Space Musem,Fully Operational,2,MDF,Works,Works,Fair,0,"Catch basin on tall one loose.Short one dripping out of base of arm, algae and mold below it.Rusty, needs painted. Replace w/ waterbottle fill combo", ,5,38.88887434,-77.01978917,
+DF_MALL_43,The Mall,Madison and Museum of Natural History,Fully Operational,2,MDF,Works,Works,Good,0,"Rusty and graffiti, needs painted.  Replace with water bottle fill combo. ", ,3,38.8904249,-77.02583536,
+DF_WAMO_44,WAMO,WAMO near Ticket booth/visitor center on 15th,Fully Operational,2,MDF,Works,Works,Good,0,"If replace, replace with water bottle fill combo", ,2,38.88962317,-77.03322779,
+DF_MALL_46,The Mall,"15th and Madison, across from African American Museum",Fully Operational,2,MDF,Works,Works,Good,0,, ,2,38.89043382,-77.03348956,
+DF_WWII_47,WWII,WWII Restrooms,Fully Operational,2,MDF,Works,Works,Good,2011,Takes about 10 seconds for both the tall and short to emit water once you press the button., ,332,38.88810423,-77.04138112,
+DF_WWII_48,WWII,WWII South elm walk,Fully Operational,2,MDF,Works,Works,Good,2012,Needs painted.  Not sure if hte handicap/short fountain is facing the correct way., ,332,38.88873135,-77.04029254,
+DF_WWI_49,DC War Memorial,DC WWI Memorial Comfort Station,Fully Operational,2,MDF,Works,Works,Good,2014, , ,332,38.88804977,-77.04273065,
+DF_WWI_50,DC War Memorial/D1 Stables,Between D1 stables and DC WWI Memorial Comfort Station (Ash woods?),Fully Operational,2,MDF,Works,Works,Good,2011, , ,332,38.88814181,-77.04445,
+DF_UP_52,Japanese Maerican Patriotism Memorial,"Japanese American Patriotism Memorial, D St/Louisiana & New Jersey NW",Fully Operational,2,MDF,Works,Works,Good,0,Is this even our property? Needs painted.  Both have a lot of pressure and shoot over the catch basin. , ,728,38.89465409,-77.00994354,
+DF_KWM_57,Korean War Memorial,"Korean War Memorial, Reflecting Pool",Fully Operational,2,MDF,Works,Works,Good,2013,"Tall fountain works, but is close to the lip of the fountain.  ", ,332,38.88878153,-77.0481658,
+DF_UP_60,Triangle,Florida and 1st St NW,Fully Operational,1,Haws,Works,,Fair,0,Needs painted.  Graffiti.  , ,276A,38.91251294,-77.01280375,
+DF_UP_64,Logan Circle East Triangle,"Logan Circle east Triangle, 12th & P St NW",Fully Operational,2,MDF,Works,Works,Good,2012,Maybe some paint on the arm, ,154,38.90985741,-77.0281998,
+DF_UP_65,Logan Circle,"Logan Circle, Rhode Island & Vermont NW",Fully Operational,2,MDF,Works,Works,Good,0,"Graffiti and stickers, maybe some paint", ,153,38.90984844,-77.02958859,
+DF_UP_68,McPherson Square,"McPherson Square, northwest. K st 15th NW",Fully Operational,2,MDF,Works,Works,Good,0,Needs cleaned , ,11,38.90213734,-77.03419883,
+DF_UP_69,McPherson Square,"McPherson Square, southeast. K St 15th NW",Fully Operational,2,MDF,Works,Works,Good,0,Needs cleaned, ,11,38.90178933,-77.03404027,
+DF_UP_72,Rawlins Park,"Rawlins Park, southeast.  E st between 18th and 19th NW",Fully Operational,2,MDF,Works,Works,Fair,0,Needs painted., ,13,38.89557021,-77.04197367,
+DF_UP_74,Washington Circle,"Washington Circle, northeast.  PA & New Hampshire NW",Fully Operational,2,MDF,Works,Works,Fair,0, , ,26,38.90287762,-77.04999924,
+DF_UP_75 ,Washington Circle,"Washington Circle, southwest. PA & New Hampshire NW",Fully Operational,2,MDF,Works,Works,Fair,0,Cloudy water for a while. Remove and replace,9/19/2016,26,38.90221231,-77.05029991,
+DF_UP_77,Dupont Circle(southeast),"Dupont Circle, Mass and Connecticut NW",Fully Operational,2,MDF,Works,Works,Poor,,"Graffiti, tall basin needs fixed",,60,38.90929935,-77.04320157,
+DF_UP_78,Dupont Circle (northeast),"Dupont Circle, Mass and Connecticut NW",Fully Operational,2,MDF,Works,Works,Poor,,"Graffiti, needs cleaned",,60,38.90998515,-77.0431779,
