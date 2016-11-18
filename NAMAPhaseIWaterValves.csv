@@ -1,0 +1,43 @@
+WaterValveType,WaterValveKey,WaterValvSize,Operational,Condition,ExercisedLast,InspectedBy,Notes,Max_PDOP,Rcvr_Type,GPS_Date,GPS_Time,Unfilt_Pos,Horz_Prec,Point_ID,Lat,lng
+Gate,Standard Box,"12""""",Fully Operational,Good,Aug-16,CC,relatively new. standard box key,3.5,Geo 7X (H-Star),10/18/2016 0:00,10:32:08am,95,0.1,1,38.88112427,-77.03279014
+Gate,Wheel,"2""""",Fully Operational,Fair,unknown,CC,wwheel broken,2.5,Geo 7X (H-Star),10/18/2016 0:00,10:34:02am,68,0.1,2,38.88111902,-77.03278032
+Other,Wheel,"2""""",Fully Operational,Good,unknown,CC, ,2.9000001,Geo 7X (H-Star),10/18/2016 0:00,10:35:43am,77,0.1,3,38.88109928,-77.03274397
+Box,Standard Box,"10""""",Fully Operational,Fair,Aug-16,CC,"box valve, hard to turn.",6.5999999,Geo 7X (H-Star),10/18/2016 0:00,10:39:36am,105,0.1,4,38.87956768,-77.03071109
+Box,Standard Box,"6""""",Fully Operational,Fair,unknown,CC,valve box needs replaced,6.5999999,Geo 7X (H-Star),10/18/2016 0:00,10:41:59am,60,0.1,5,38.87947088,-77.03083606
+Box,Standard Box,"6""""",Fully Operational,Good,Oct-16,CC,"box valve,",2.9000001,Geo 7X (H-Star),10/18/2016 0:00,10:50:50am,34,0.3,6,38.87843287,-77.02947367
+Wheel,Hand,"1/2""""",Fully Operational,Good,Mar-16,CC,wheel valve,2.8,Geo 7X (H-Star),10/18/2016 0:00,10:53:59am,98,0.1,7,38.87840791,-77.0303914
+Wheel,Hand,"2""""",Fully Operational,Good,10/18/2016,CC,wheel valve,4.5,Geo 7X (H-Star),10/18/2016 0:00,10:57:31am,92,0.1,8,38.87767604,-77.03120527
+Wheel,Hand,"2""""",Fully Operational,Good,10/18/2016,CC, ,4.5,Geo 7X (H-Star),10/18/2016 0:00,10:59:09am,41,0.2,9,38.87767422,-77.03121191
+Wheel,Hand,"1""""",Fully Operational,Good,10/18/2016,CC, ,3.5,Geo 7X (H-Star),10/18/2016 0:00,10:59:58am,32,0.2,10,38.87766023,-77.03121939
+Wheel,Hand,"2""""",Fully Operational,Good,Sppring 2016,CC,wheel valve,5.4000001,Geo 7X (H-Star),10/18/2016 0:00,11:02:43am,52,0.1,11,38.87762938,-77.03126715
+Box,Standard Box,"6""""",Fully Operational,Good,2014,CC,box valve for hydrant,5.9000001,Geo 7X (H-Star),10/18/2016 0:00,11:04:12am,60,0.1,12,38.87757545,-77.03120978
+Wheel,Hand,"2""""",Fully Operational,Good,2013,CC,"wheel valve, wheel broken.",5,Geo 7X (H-Star),10/18/2016 0:00,11:09:10am,103,0.2,13,38.87640858,-77.03269068
+Box,Standard Box,"6""""",Fully Operational,Fair,2013,CC,"box valve, needs to be reset.",3.5999999,Geo 7X (H-Star),10/18/2016 0:00,11:11:58am,92,0.1,14,38.87638676,-77.03269838
+Other,Standard Box,"6""""",Fully Operational,Good,2014,CC, ,4.3000002,Geo 7X (H-Star),10/18/2016 0:00,11:16:00am,43,0.4,15,38.87588405,-77.0333723
+Box,Standard Box,"6""""",Fully Operational,Good,2014,CC,box valve,5.3000002,Geo 7X (H-Star),10/18/2016 0:00,11:16:48am,60,0.4,16,38.87589343,-77.03336276
+Box,Standard Box,"6""""",Fully Operational,Fair,10/12/2016,CC,box valve,6,Geo 7X (H-Star),10/18/2016 0:00,11:20:25am,41,0.1,17,38.87521438,-77.03380075
+Box,Standard Box,"8""""",Fully Operational,Good,Sep-16,CC,box valve,3,Geo 7X (H-Star),10/18/2016 0:00,11:30:57am,44,0.3,18,38.8763893,-77.03522819
+Box,Standard Box,"6""""",Fully Operational,Fair,Oct-16,CC,box valve,4.6999998,Geo 7X (H-Star),10/18/2016 0:00,11:35:14am,46,0.1,19,38.87673075,-77.03299865
+Box,Standard Box,"6""""",Fully Operational,Good,2015,CC,box valve,2.8,Geo 7X (H-Star),10/18/2016 0:00,11:44:05am,55,0.1,21,38.87820624,-77.03299141
+Box,Standard Box,"6""""",Fully Operational,Good,Apr-16,CC,shuts off tourmoobile. box valve,5.1999998,Geo 7X (H-Star),10/18/2016 0:00,11:45:06am,54,0.1,22,38.87820161,-77.03298345
+Wheel,Hand,"2""""",Fully Operational,Good,unknown,CC,wheel valve,2.7,Geo 7X (H-Star),10/18/2016 0:00,11:46:06am,41,0.1,23,38.87819663,-77.03298582
+Wheel,Hand,"1""""",Fully Operational,Fair,unknown,CC,wheel valve handle missing,5.1999998,Geo 7X (H-Star),10/18/2016 0:00,11:46:54am,44,0.1,24,38.87819403,-77.03297081
+Box,Standard Box,"6""""",Fully Operational,Good,nevervbeen,CC,"box valve, towards end of structure",4.3000002,Geo 7X (H-Star),10/18/2016 0:00,11:48:24am,88,0.7,25,38.87828138,-77.03305534
+Box,Standard Box,"8""""",Fully Operational,Fair,Jan-16,CC,needs replaced. box valve,10.1999998,Geo 7X (H-Star),10/18/2016 0:00,11:52:33am,76,0.6,26,38.87829577,-77.03309123
+Box,Standard Box,"6""""",Fully Operational,Good,unknown,CC,feeds hydrant,3.9000001,Geo 7X (H-Star),10/18/2016 0:00,11:56:45am,55,0.1,27,38.8772062,-77.03283998
+Box,Standard Box,"6""""",Fully Operational,Unknown,unknown,CC,box valve,3,Geo 7X (H-Star),10/18/2016 0:00,11:57:50am,37,0.1,28,38.87714448,-77.0328978
+Box,Standard Box,"6""""",Fully Operational,Good,2013,CC,box valve,4.4000001,Geo 7X (H-Star),10/18/2016 0:00,12:00:05pm,49,0.1,29,38.87757313,-77.03393155
+Box,Standard Box,Unknown,Unknown,Unknown,unknown,CC,"inline valve. box valve, 8 or 10""",6.5,Geo 7X (H-Star),10/18/2016 0:00,12:03:13pm,51,0.2,30,38.87680885,-77.03578674
+Box,Standard Box,Unknown,Unknown,Unknown,unknown,CC,"box valve, 8 or 10""",4.4000001,Geo 7X (H-Star),10/18/2016 0:00,12:06:54pm,61,0.1,31,38.8768562,-77.03584436
+Unknown,Unknown,Unknown,Unknown,Unknown,unknown,CC,might be abandoned,5.3000002,Geo 7X (H-Star),10/18/2016 0:00,12:08:08pm,93,0.2,32,38.87687018,-77.03584929
+Other,5 Sided,"10""""",Fully Operational,Fair,Sep-16,CC,3 way valve,4.3000002,Geo 7X (H-Star),10/18/2016 0:00,12:10:24pm,55,0.2,33,38.87694491,-77.03597606
+Box,Standard Box,"6""""",Fully Operational,Good,2015,CC,"box valve, to hydrant",5.1999998,Geo 7X (H-Star),10/18/2016 0:00,12:13:51pm,44,0.3,34,38.87762065,-77.03683478
+Box,Standard Box,"6""""",Fully Operational,Good,Fall 2015,CC,box valve,7.1999998,Geo 7X (H-Star),10/18/2016 0:00,12:20:10pm,60,0.5,35,38.87915118,-77.03940752
+Box,Standard Box,"6""""",Fully Operational,Good,Fall 2016,CC,box valve,5.1999998,Geo 7X (H-Star),10/18/2016 0:00,12:21:17pm,60,0.4,36,38.87915616,-77.03944521
+Box,Standard Box,"6""""",Fully Operational,Good,never. end of line,CC,box valve,5.8000002,Geo 7X (H-Star),10/18/2016 0:00,12:24:49pm,53,0.1,37,38.87967464,-77.03852106
+Box,Standard Box,"6""""",Fully Operational,Good,Fall 2015,CC,box valve for hydrant,5.1999998,Geo 7X (H-Star),10/18/2016 0:00,12:26:37pm,76,0.1,38,38.87982119,-77.03815542
+Other,5 Sided,"10""""",Fully Operational,Fair,2015,CC, ,5.8000002,Geo 7X (H-Star),10/18/2016 0:00,12:33:52pm,52,0.1,39,38.8813119,-77.03438252
+Unknown,Unknown,Unknown,Unknown,Unknown, ,CC, ,3.5,Geo 7X (H-Star),10/18/2016 0:00,12:37:24pm,40,0.1,40,38.8830453,-77.03273551
+Box,Standard Box,"10""""",Fully Operational,Fair,unknown,CC,box valve,3.8,Geo 7X (H-Star),10/18/2016 0:00,12:42:04pm,41,0.1,41,38.8818049,-77.03360344
+Box,Standard Box,Unknown,Fully Operational,Fair,May-16,CC,"10-12"""" box valves",2.8,Geo 7X (H-Star),10/18/2016 0:00,12:43:04pm,55,0.1,42,38.88170078,-77.0336397
+Box,Standard Box,Unknown,Fully Operational,Fair,2015,CC,"10-12"""" box valve",4.4000001,Geo 7X (H-Star),10/18/2016 0:00,12:44:06pm,40,0.2,43,38.88169634,-77.03366471
